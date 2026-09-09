@@ -1,0 +1,1624 @@
+type,start_date,end_date,duration_blocks,basin
+Dry,1998-01-01,1998-09-01,9,Amazon Basin
+Wet,1998-10-01,1998-11-01,2,Amazon Basin
+Dry,1998-12-01,1998-12-01,1,Amazon Basin
+Wet,1999-01-01,1999-02-01,2,Amazon Basin
+Dry,1999-03-01,1999-03-01,1,Amazon Basin
+Wet,1999-04-01,1999-06-01,3,Amazon Basin
+Dry,1999-07-01,1999-08-01,2,Amazon Basin
+Wet,1999-09-01,1999-09-01,1,Amazon Basin
+Dry,1999-10-01,1999-11-01,2,Amazon Basin
+Wet,1999-12-01,2000-01-01,2,Amazon Basin
+Dry,2000-02-01,2000-02-01,1,Amazon Basin
+Wet,2000-03-01,2000-11-01,9,Amazon Basin
+Dry,2000-12-01,2000-12-01,1,Amazon Basin
+Wet,2001-01-01,2001-01-01,1,Amazon Basin
+Dry,2001-02-01,2001-02-01,1,Amazon Basin
+Wet,2001-03-01,2001-03-01,1,Amazon Basin
+Dry,2001-04-01,2001-04-01,1,Amazon Basin
+Wet,2001-05-01,2001-07-01,3,Amazon Basin
+Dry,2001-08-01,2001-08-01,1,Amazon Basin
+Wet,2001-09-01,2001-10-01,2,Amazon Basin
+Dry,2001-11-01,2001-11-01,1,Amazon Basin
+Wet,2001-12-01,2001-12-01,1,Amazon Basin
+Dry,2002-01-01,2002-01-01,1,Amazon Basin
+Wet,2002-02-01,2002-02-01,1,Amazon Basin
+Dry,2002-03-01,2002-03-01,1,Amazon Basin
+Wet,2002-04-01,2002-05-01,2,Amazon Basin
+Dry,2002-06-01,2002-06-01,1,Amazon Basin
+Wet,2002-07-01,2002-08-01,2,Amazon Basin
+Dry,2002-09-01,2002-09-01,1,Amazon Basin
+Wet,2002-10-01,2002-10-01,1,Amazon Basin
+Dry,2002-11-01,2002-11-01,1,Amazon Basin
+Wet,2002-12-01,2002-12-01,1,Amazon Basin
+Dry,2003-01-01,2003-02-01,2,Amazon Basin
+Wet,2003-03-01,2003-06-01,4,Amazon Basin
+Dry,2003-07-01,2003-07-01,1,Amazon Basin
+Wet,2003-08-01,2003-10-01,3,Amazon Basin
+Dry,2003-11-01,2004-01-01,3,Amazon Basin
+Wet,2004-02-01,2004-03-01,2,Amazon Basin
+Dry,2004-04-01,2004-05-01,2,Amazon Basin
+Wet,2004-06-01,2004-11-01,6,Amazon Basin
+Dry,2004-12-01,2005-01-01,2,Amazon Basin
+Wet,2005-02-01,2005-03-01,2,Amazon Basin
+Dry,2005-04-01,2005-09-01,6,Amazon Basin
+Wet,2005-10-01,2005-10-01,1,Amazon Basin
+Dry,2005-11-01,2005-11-01,1,Amazon Basin
+Wet,2005-12-01,2006-05-01,6,Amazon Basin
+Dry,2006-06-01,2006-06-01,1,Amazon Basin
+Wet,2006-07-01,2006-07-01,1,Amazon Basin
+Dry,2006-08-01,2006-08-01,1,Amazon Basin
+Wet,2006-09-01,2006-12-01,4,Amazon Basin
+Dry,2007-01-01,2007-02-01,2,Amazon Basin
+Wet,2007-03-01,2007-04-01,2,Amazon Basin
+Dry,2007-05-01,2007-07-01,3,Amazon Basin
+Wet,2007-08-01,2007-08-01,1,Amazon Basin
+Dry,2007-09-01,2007-09-01,1,Amazon Basin
+Wet,2007-10-01,2008-03-01,6,Amazon Basin
+Dry,2008-04-01,2008-04-01,1,Amazon Basin
+Wet,2008-05-01,2008-05-01,1,Amazon Basin
+Dry,2008-06-01,2008-08-01,3,Amazon Basin
+Wet,2008-09-01,2009-08-01,12,Amazon Basin
+Dry,2009-09-01,2009-11-01,3,Amazon Basin
+Wet,2009-12-01,2010-01-01,2,Amazon Basin
+Dry,2010-02-01,2010-10-01,9,Amazon Basin
+Wet,2010-11-01,2011-05-01,7,Amazon Basin
+Dry,2011-06-01,2011-08-01,3,Amazon Basin
+Wet,2011-09-01,2012-03-01,7,Amazon Basin
+Dry,2012-04-01,2012-06-01,3,Amazon Basin
+Wet,2012-07-01,2012-07-01,1,Amazon Basin
+Dry,2012-08-01,2012-08-01,1,Amazon Basin
+Wet,2012-09-01,2012-09-01,1,Amazon Basin
+Dry,2012-10-01,2012-11-01,2,Amazon Basin
+Wet,2012-12-01,2012-12-01,1,Amazon Basin
+Dry,2013-01-01,2013-01-01,1,Amazon Basin
+Wet,2013-02-01,2013-03-01,2,Amazon Basin
+Dry,2013-04-01,2013-05-01,2,Amazon Basin
+Wet,2013-06-01,2013-11-01,6,Amazon Basin
+Dry,2013-12-01,2013-12-01,1,Amazon Basin
+Wet,2014-01-01,2014-03-01,3,Amazon Basin
+Dry,2014-04-01,2014-04-01,1,Amazon Basin
+Wet,2014-05-01,2014-06-01,2,Amazon Basin
+Dry,2014-07-01,2014-07-01,1,Amazon Basin
+Wet,2014-08-01,2014-08-01,1,Amazon Basin
+Dry,2014-09-01,2014-09-01,1,Amazon Basin
+Wet,2014-10-01,2014-11-01,2,Amazon Basin
+Dry,2014-12-01,2014-12-01,1,Amazon Basin
+Wet,2015-01-01,2015-01-01,1,Amazon Basin
+Dry,2015-02-01,2015-02-01,1,Amazon Basin
+Wet,2015-03-01,2015-05-01,3,Amazon Basin
+Dry,2015-06-01,2015-06-01,1,Amazon Basin
+Wet,2015-07-01,2015-07-01,1,Amazon Basin
+Dry,2015-08-01,2016-02-01,7,Amazon Basin
+Wet,2016-03-01,2016-03-01,1,Amazon Basin
+Dry,2016-04-01,2016-08-01,5,Amazon Basin
+Wet,2016-09-01,2016-10-01,2,Amazon Basin
+Dry,2016-11-01,2016-11-01,1,Amazon Basin
+Wet,2016-12-01,2017-03-01,4,Amazon Basin
+Dry,2017-04-01,2017-07-01,4,Amazon Basin
+Wet,2017-08-01,2017-09-01,2,Amazon Basin
+Dry,2017-10-01,2017-10-01,1,Amazon Basin
+Wet,2017-11-01,2018-02-01,4,Amazon Basin
+Dry,2018-03-01,2018-03-01,1,Amazon Basin
+Wet,2018-04-01,2018-05-01,2,Amazon Basin
+Dry,2018-06-01,2018-06-01,1,Amazon Basin
+Wet,2018-07-01,2019-02-01,8,Amazon Basin
+Dry,2019-03-01,2019-03-01,1,Amazon Basin
+Wet,2019-04-01,2019-06-01,3,Amazon Basin
+Dry,2019-07-01,2019-09-01,3,Amazon Basin
+Wet,2019-10-01,2019-12-01,3,Amazon Basin
+Dry,2020-01-01,2020-03-01,3,Amazon Basin
+Wet,2020-04-01,2020-06-01,3,Amazon Basin
+Dry,2020-07-01,2020-12-01,6,Amazon Basin
+Wet,2021-01-01,2021-01-01,1,Amazon Basin
+Dry,2021-02-01,2021-02-01,1,Amazon Basin
+Wet,2021-03-01,2021-03-01,1,Amazon Basin
+Dry,2021-04-01,2021-05-01,2,Amazon Basin
+Wet,2021-06-01,2021-06-01,1,Amazon Basin
+Dry,2021-07-01,2021-07-01,1,Amazon Basin
+Wet,2021-08-01,2021-09-01,2,Amazon Basin
+Dry,2021-10-01,2021-10-01,1,Amazon Basin
+Wet,2021-11-01,2021-12-01,2,Amazon Basin
+Dry,2022-01-01,2022-02-01,2,Amazon Basin
+Wet,2022-03-01,2022-03-01,1,Amazon Basin
+Dry,2022-04-01,2022-05-01,2,Amazon Basin
+Wet,2022-06-01,2022-08-01,3,Amazon Basin
+Dry,2022-09-01,2025-01-01,29,Amazon Basin
+Wet,2025-02-01,2025-02-01,1,Amazon Basin
+Dry,2025-03-01,2025-04-01,2,Amazon Basin
+Wet,1998-01-01,1998-07-01,7,California
+Dry,1998-08-01,1998-08-01,1,California
+Wet,1998-09-01,1998-09-01,1,California
+Dry,1998-10-01,1998-10-01,1,California
+Wet,1998-11-01,1998-11-01,1,California
+Dry,1998-12-01,1999-01-01,2,California
+Wet,1999-02-01,1999-02-01,1,California
+Dry,1999-03-01,1999-03-01,1,California
+Wet,1999-04-01,1999-04-01,1,California
+Dry,1999-05-01,1999-06-01,2,California
+Wet,1999-07-01,1999-08-01,2,California
+Dry,1999-09-01,1999-12-01,4,California
+Wet,2000-01-01,2000-02-01,2,California
+Dry,2000-03-01,2000-03-01,1,California
+Wet,2000-04-01,2000-04-01,1,California
+Dry,2000-05-01,2000-07-01,3,California
+Wet,2000-08-01,2000-10-01,3,California
+Dry,2000-11-01,2001-01-01,3,California
+Wet,2001-02-01,2001-02-01,1,California
+Dry,2001-03-01,2001-03-01,1,California
+Wet,2001-04-01,2001-04-01,1,California
+Dry,2001-05-01,2001-06-01,2,California
+Wet,2001-07-01,2001-07-01,1,California
+Dry,2001-08-01,2001-10-01,3,California
+Wet,2001-11-01,2001-12-01,2,California
+Dry,2002-01-01,2002-10-01,10,California
+Wet,2002-11-01,2002-12-01,2,California
+Dry,2003-01-01,2003-03-01,3,California
+Wet,2003-04-01,2003-05-01,2,California
+Dry,2003-06-01,2003-06-01,1,California
+Wet,2003-07-01,2003-08-01,2,California
+Dry,2003-09-01,2003-10-01,2,California
+Wet,2003-11-01,2003-12-01,2,California
+Dry,2004-01-01,2004-01-01,1,California
+Wet,2004-02-01,2004-02-01,1,California
+Dry,2004-03-01,2004-07-01,5,California
+Wet,2004-08-01,2004-08-01,1,California
+Dry,2004-09-01,2004-09-01,1,California
+Wet,2004-10-01,2004-10-01,1,California
+Dry,2004-11-01,2004-11-01,1,California
+Wet,2004-12-01,2005-06-01,7,California
+Dry,2005-07-01,2005-07-01,1,California
+Wet,2005-08-01,2005-08-01,1,California
+Dry,2005-09-01,2005-10-01,2,California
+Wet,2005-11-01,2006-01-01,3,California
+Dry,2006-02-01,2006-02-01,1,California
+Wet,2006-03-01,2006-04-01,2,California
+Dry,2006-05-01,2006-10-01,6,California
+Wet,2006-11-01,2006-11-01,1,California
+Dry,2006-12-01,2007-01-01,2,California
+Wet,2007-02-01,2007-02-01,1,California
+Dry,2007-03-01,2007-06-01,4,California
+Wet,2007-07-01,2007-07-01,1,California
+Dry,2007-08-01,2007-08-01,1,California
+Wet,2007-09-01,2007-10-01,2,California
+Dry,2007-11-01,2007-12-01,2,California
+Wet,2008-01-01,2008-01-01,1,California
+Dry,2008-02-01,2009-01-01,12,California
+Wet,2009-02-01,2009-02-01,1,California
+Dry,2009-03-01,2009-04-01,2,California
+Wet,2009-05-01,2009-06-01,2,California
+Dry,2009-07-01,2009-09-01,3,California
+Wet,2009-10-01,2009-10-01,1,California
+Dry,2009-11-01,2009-12-01,2,California
+Wet,2010-01-01,2010-01-01,1,California
+Dry,2010-02-01,2010-03-01,2,California
+Wet,2010-04-01,2010-06-01,3,California
+Dry,2010-07-01,2010-09-01,3,California
+Wet,2010-10-01,2010-12-01,3,California
+Dry,2011-01-01,2011-02-01,2,California
+Wet,2011-03-01,2011-03-01,1,California
+Dry,2011-04-01,2011-04-01,1,California
+Wet,2011-05-01,2011-07-01,3,California
+Dry,2011-08-01,2011-09-01,2,California
+Wet,2011-10-01,2011-10-01,1,California
+Dry,2011-11-01,2012-02-01,4,California
+Wet,2012-03-01,2012-04-01,2,California
+Dry,2012-05-01,2012-06-01,2,California
+Wet,2012-07-01,2012-07-01,1,California
+Dry,2012-08-01,2012-10-01,3,California
+Wet,2012-11-01,2012-12-01,2,California
+Dry,2013-01-01,2013-05-01,5,California
+Wet,2013-06-01,2013-09-01,4,California
+Dry,2013-10-01,2014-01-01,4,California
+Wet,2014-02-01,2014-02-01,1,California
+Dry,2014-03-01,2014-07-01,5,California
+Wet,2014-08-01,2014-10-01,3,California
+Dry,2014-11-01,2014-11-01,1,California
+Wet,2014-12-01,2014-12-01,1,California
+Dry,2015-01-01,2015-06-01,6,California
+Wet,2015-07-01,2015-07-01,1,California
+Dry,2015-08-01,2015-08-01,1,California
+Wet,2015-09-01,2015-09-01,1,California
+Dry,2015-10-01,2015-11-01,2,California
+Wet,2015-12-01,2016-01-01,2,California
+Dry,2016-02-01,2016-02-01,1,California
+Wet,2016-03-01,2016-04-01,2,California
+Dry,2016-05-01,2016-05-01,1,California
+Wet,2016-06-01,2016-06-01,1,California
+Dry,2016-07-01,2016-09-01,3,California
+Wet,2016-10-01,2017-02-01,5,California
+Dry,2017-03-01,2017-03-01,1,California
+Wet,2017-04-01,2017-04-01,1,California
+Dry,2017-05-01,2017-08-01,4,California
+Wet,2017-09-01,2017-09-01,1,California
+Dry,2017-10-01,2017-10-01,1,California
+Wet,2017-11-01,2017-11-01,1,California
+Dry,2017-12-01,2018-02-01,3,California
+Wet,2018-03-01,2018-04-01,2,California
+Dry,2018-05-01,2018-06-01,2,California
+Wet,2018-07-01,2018-07-01,1,California
+Dry,2018-08-01,2018-10-01,3,California
+Wet,2018-11-01,2018-11-01,1,California
+Dry,2018-12-01,2018-12-01,1,California
+Wet,2019-01-01,2019-03-01,3,California
+Dry,2019-04-01,2019-04-01,1,California
+Wet,2019-05-01,2019-05-01,1,California
+Dry,2019-06-01,2019-08-01,3,California
+Wet,2019-09-01,2019-09-01,1,California
+Dry,2019-10-01,2019-11-01,2,California
+Wet,2019-12-01,2019-12-01,1,California
+Dry,2020-01-01,2020-02-01,2,California
+Wet,2020-03-01,2020-05-01,3,California
+Dry,2020-06-01,2020-12-01,7,California
+Wet,2021-01-01,2021-01-01,1,California
+Dry,2021-02-01,2021-06-01,5,California
+Wet,2021-07-01,2021-07-01,1,California
+Dry,2021-08-01,2021-08-01,1,California
+Wet,2021-09-01,2021-10-01,2,California
+Dry,2021-11-01,2021-11-01,1,California
+Wet,2021-12-01,2021-12-01,1,California
+Dry,2022-01-01,2022-05-01,5,California
+Wet,2022-06-01,2022-06-01,1,California
+Dry,2022-07-01,2022-07-01,1,California
+Wet,2022-08-01,2022-09-01,2,California
+Dry,2022-10-01,2022-11-01,2,California
+Wet,2022-12-01,2023-01-01,2,California
+Dry,2023-02-01,2023-02-01,1,California
+Wet,2023-03-01,2023-03-01,1,California
+Dry,2023-04-01,2023-07-01,4,California
+Wet,2023-08-01,2023-09-01,2,California
+Dry,2023-10-01,2023-12-01,3,California
+Wet,2024-01-01,2024-03-01,3,California
+Dry,2024-04-01,2024-07-01,4,California
+Wet,2024-08-01,2024-08-01,1,California
+Dry,2024-09-01,2024-10-01,2,California
+Wet,2024-11-01,2024-11-01,1,California
+Dry,2024-12-01,2025-01-01,2,California
+Wet,2025-02-01,2025-03-01,2,California
+Dry,2025-04-01,2025-04-01,1,California
+Dry,1998-01-01,1998-01-01,1,Colorado
+Wet,1998-02-01,1998-04-01,3,Colorado
+Dry,1998-05-01,1998-05-01,1,Colorado
+Wet,1998-06-01,1998-07-01,2,Colorado
+Dry,1998-08-01,1998-08-01,1,Colorado
+Wet,1998-09-01,1998-11-01,3,Colorado
+Dry,1998-12-01,1999-03-01,4,Colorado
+Wet,1999-04-01,1999-09-01,6,Colorado
+Dry,1999-10-01,2000-02-01,5,Colorado
+Wet,2000-03-01,2000-03-01,1,Colorado
+Dry,2000-04-01,2000-05-01,2,Colorado
+Wet,2000-06-01,2000-06-01,1,Colorado
+Dry,2000-07-01,2000-07-01,1,Colorado
+Wet,2000-08-01,2000-08-01,1,Colorado
+Dry,2000-09-01,2000-09-01,1,Colorado
+Wet,2000-10-01,2000-11-01,2,Colorado
+Dry,2000-12-01,2000-12-01,1,Colorado
+Wet,2001-01-01,2001-02-01,2,Colorado
+Dry,2001-03-01,2001-03-01,1,Colorado
+Wet,2001-04-01,2001-04-01,1,Colorado
+Dry,2001-05-01,2001-07-01,3,Colorado
+Wet,2001-08-01,2001-08-01,1,Colorado
+Dry,2001-09-01,2002-08-01,12,Colorado
+Wet,2002-09-01,2002-09-01,1,Colorado
+Dry,2002-10-01,2003-01-01,4,Colorado
+Wet,2003-02-01,2003-03-01,2,Colorado
+Dry,2003-04-01,2003-10-01,7,Colorado
+Wet,2003-11-01,2003-11-01,1,Colorado
+Dry,2003-12-01,2004-01-01,2,Colorado
+Wet,2004-02-01,2004-02-01,1,Colorado
+Dry,2004-03-01,2004-03-01,1,Colorado
+Wet,2004-04-01,2004-04-01,1,Colorado
+Dry,2004-05-01,2004-05-01,1,Colorado
+Wet,2004-06-01,2004-06-01,1,Colorado
+Dry,2004-07-01,2004-08-01,2,Colorado
+Wet,2004-09-01,2005-06-01,10,Colorado
+Dry,2005-07-01,2005-07-01,1,Colorado
+Wet,2005-08-01,2005-08-01,1,Colorado
+Dry,2005-09-01,2005-09-01,1,Colorado
+Wet,2005-10-01,2005-10-01,1,Colorado
+Dry,2005-11-01,2006-02-01,4,Colorado
+Wet,2006-03-01,2006-03-01,1,Colorado
+Dry,2006-04-01,2006-06-01,3,Colorado
+Wet,2006-07-01,2006-10-01,4,Colorado
+Dry,2006-11-01,2007-04-01,6,Colorado
+Wet,2007-05-01,2007-05-01,1,Colorado
+Dry,2007-06-01,2007-06-01,1,Colorado
+Wet,2007-07-01,2007-09-01,3,Colorado
+Dry,2007-10-01,2007-11-01,2,Colorado
+Wet,2007-12-01,2008-02-01,3,Colorado
+Dry,2008-03-01,2008-04-01,2,Colorado
+Wet,2008-05-01,2008-05-01,1,Colorado
+Dry,2008-06-01,2008-06-01,1,Colorado
+Wet,2008-07-01,2008-08-01,2,Colorado
+Dry,2008-09-01,2008-10-01,2,Colorado
+Wet,2008-11-01,2008-12-01,2,Colorado
+Dry,2009-01-01,2009-03-01,3,Colorado
+Wet,2009-04-01,2009-06-01,3,Colorado
+Dry,2009-07-01,2009-11-01,5,Colorado
+Wet,2009-12-01,2010-03-01,4,Colorado
+Dry,2010-04-01,2010-06-01,3,Colorado
+Wet,2010-07-01,2010-08-01,2,Colorado
+Dry,2010-09-01,2010-09-01,1,Colorado
+Wet,2010-10-01,2010-10-01,1,Colorado
+Dry,2010-11-01,2010-11-01,1,Colorado
+Wet,2010-12-01,2010-12-01,1,Colorado
+Dry,2011-01-01,2011-03-01,3,Colorado
+Wet,2011-04-01,2011-05-01,2,Colorado
+Dry,2011-06-01,2011-06-01,1,Colorado
+Wet,2011-07-01,2011-07-01,1,Colorado
+Dry,2011-08-01,2011-08-01,1,Colorado
+Wet,2011-09-01,2011-11-01,3,Colorado
+Dry,2011-12-01,2012-06-01,7,Colorado
+Wet,2012-07-01,2012-07-01,1,Colorado
+Dry,2012-08-01,2012-11-01,4,Colorado
+Wet,2012-12-01,2013-01-01,2,Colorado
+Dry,2013-02-01,2013-06-01,5,Colorado
+Wet,2013-07-01,2013-09-01,3,Colorado
+Dry,2013-10-01,2013-10-01,1,Colorado
+Wet,2013-11-01,2013-11-01,1,Colorado
+Dry,2013-12-01,2014-06-01,7,Colorado
+Wet,2014-07-01,2014-09-01,3,Colorado
+Dry,2014-10-01,2014-11-01,2,Colorado
+Wet,2014-12-01,2015-01-01,2,Colorado
+Dry,2015-02-01,2015-04-01,3,Colorado
+Wet,2015-05-01,2015-08-01,4,Colorado
+Dry,2015-09-01,2015-09-01,1,Colorado
+Wet,2015-10-01,2015-11-01,2,Colorado
+Dry,2015-12-01,2015-12-01,1,Colorado
+Wet,2016-01-01,2016-01-01,1,Colorado
+Dry,2016-02-01,2016-03-01,2,Colorado
+Wet,2016-04-01,2016-06-01,3,Colorado
+Dry,2016-07-01,2016-07-01,1,Colorado
+Wet,2016-08-01,2016-09-01,2,Colorado
+Dry,2016-10-01,2016-10-01,1,Colorado
+Wet,2016-11-01,2017-02-01,4,Colorado
+Dry,2017-03-01,2017-04-01,2,Colorado
+Wet,2017-05-01,2017-05-01,1,Colorado
+Dry,2017-06-01,2017-06-01,1,Colorado
+Wet,2017-07-01,2017-07-01,1,Colorado
+Dry,2017-08-01,2018-09-01,14,Colorado
+Wet,2018-10-01,2018-10-01,1,Colorado
+Dry,2018-11-01,2018-12-01,2,Colorado
+Wet,2019-01-01,2019-05-01,5,Colorado
+Dry,2019-06-01,2019-10-01,5,Colorado
+Wet,2019-11-01,2019-12-01,2,Colorado
+Dry,2020-01-01,2020-02-01,2,Colorado
+Wet,2020-03-01,2020-03-01,1,Colorado
+Dry,2020-04-01,2021-02-01,11,Colorado
+Wet,2021-03-01,2021-03-01,1,Colorado
+Dry,2021-04-01,2021-06-01,3,Colorado
+Wet,2021-07-01,2021-08-01,2,Colorado
+Dry,2021-09-01,2021-09-01,1,Colorado
+Wet,2021-10-01,2021-10-01,1,Colorado
+Dry,2021-11-01,2021-11-01,1,Colorado
+Wet,2021-12-01,2021-12-01,1,Colorado
+Dry,2022-01-01,2022-05-01,5,Colorado
+Wet,2022-06-01,2022-06-01,1,Colorado
+Dry,2022-07-01,2022-07-01,1,Colorado
+Wet,2022-08-01,2022-10-01,3,Colorado
+Dry,2022-11-01,2022-11-01,1,Colorado
+Wet,2022-12-01,2023-01-01,2,Colorado
+Dry,2023-02-01,2023-02-01,1,Colorado
+Wet,2023-03-01,2023-03-01,1,Colorado
+Dry,2023-04-01,2023-05-01,2,Colorado
+Wet,2023-06-01,2023-06-01,1,Colorado
+Dry,2023-07-01,2023-07-01,1,Colorado
+Wet,2023-08-01,2023-08-01,1,Colorado
+Dry,2023-09-01,2023-12-01,4,Colorado
+Wet,2024-01-01,2024-03-01,3,Colorado
+Dry,2024-04-01,2024-05-01,2,Colorado
+Wet,2024-06-01,2024-06-01,1,Colorado
+Dry,2024-07-01,2024-07-01,1,Colorado
+Wet,2024-08-01,2024-08-01,1,Colorado
+Dry,2024-09-01,2024-10-01,2,Colorado
+Wet,2024-11-01,2024-11-01,1,Colorado
+Dry,2024-12-01,2025-02-01,3,Colorado
+Wet,2025-03-01,2025-03-01,1,Colorado
+Dry,2025-04-01,2025-04-01,1,Colorado
+Wet,1998-01-01,1998-01-01,1,Congo
+Dry,1998-02-01,1998-06-01,5,Congo
+Wet,1998-07-01,1998-09-01,3,Congo
+Dry,1998-10-01,1998-12-01,3,Congo
+Wet,1999-01-01,1999-01-01,1,Congo
+Dry,1999-02-01,1999-02-01,1,Congo
+Wet,1999-03-01,1999-03-01,1,Congo
+Dry,1999-04-01,1999-04-01,1,Congo
+Wet,1999-05-01,1999-11-01,7,Congo
+Dry,1999-12-01,2000-04-01,5,Congo
+Wet,2000-05-01,2000-06-01,2,Congo
+Dry,2000-07-01,2000-07-01,1,Congo
+Wet,2000-08-01,2001-01-01,6,Congo
+Dry,2001-02-01,2001-02-01,1,Congo
+Wet,2001-03-01,2001-07-01,5,Congo
+Dry,2001-08-01,2001-12-01,5,Congo
+Wet,2002-01-01,2002-05-01,5,Congo
+Dry,2002-06-01,2002-06-01,1,Congo
+Wet,2002-07-01,2003-02-01,8,Congo
+Dry,2003-03-01,2003-05-01,3,Congo
+Wet,2003-06-01,2003-07-01,2,Congo
+Dry,2003-08-01,2003-11-01,4,Congo
+Wet,2003-12-01,2003-12-01,1,Congo
+Dry,2004-01-01,2004-01-01,1,Congo
+Wet,2004-02-01,2004-02-01,1,Congo
+Dry,2004-03-01,2004-07-01,5,Congo
+Wet,2004-08-01,2004-10-01,3,Congo
+Dry,2004-11-01,2004-11-01,1,Congo
+Wet,2004-12-01,2005-01-01,2,Congo
+Dry,2005-02-01,2005-02-01,1,Congo
+Wet,2005-03-01,2005-03-01,1,Congo
+Dry,2005-04-01,2005-04-01,1,Congo
+Wet,2005-05-01,2005-06-01,2,Congo
+Dry,2005-07-01,2005-12-01,6,Congo
+Wet,2006-01-01,2006-03-01,3,Congo
+Dry,2006-04-01,2006-04-01,1,Congo
+Wet,2006-05-01,2006-05-01,1,Congo
+Dry,2006-06-01,2006-06-01,1,Congo
+Wet,2006-07-01,2006-07-01,1,Congo
+Dry,2006-08-01,2006-09-01,2,Congo
+Wet,2006-10-01,2006-12-01,3,Congo
+Dry,2007-01-01,2007-01-01,1,Congo
+Wet,2007-02-01,2007-02-01,1,Congo
+Dry,2007-03-01,2007-03-01,1,Congo
+Wet,2007-04-01,2007-04-01,1,Congo
+Dry,2007-05-01,2007-05-01,1,Congo
+Wet,2007-06-01,2008-01-01,8,Congo
+Dry,2008-02-01,2008-02-01,1,Congo
+Wet,2008-03-01,2008-03-01,1,Congo
+Dry,2008-04-01,2008-04-01,1,Congo
+Wet,2008-05-01,2008-05-01,1,Congo
+Dry,2008-06-01,2008-06-01,1,Congo
+Wet,2008-07-01,2008-07-01,1,Congo
+Dry,2008-08-01,2008-12-01,5,Congo
+Wet,2009-01-01,2009-02-01,2,Congo
+Dry,2009-03-01,2009-04-01,2,Congo
+Wet,2009-05-01,2009-06-01,2,Congo
+Dry,2009-07-01,2009-07-01,1,Congo
+Wet,2009-08-01,2009-08-01,1,Congo
+Dry,2009-09-01,2009-09-01,1,Congo
+Wet,2009-10-01,2009-12-01,3,Congo
+Dry,2010-01-01,2010-01-01,1,Congo
+Wet,2010-02-01,2010-03-01,2,Congo
+Dry,2010-04-01,2010-05-01,2,Congo
+Wet,2010-06-01,2010-09-01,4,Congo
+Dry,2010-10-01,2010-10-01,1,Congo
+Wet,2010-11-01,2010-11-01,1,Congo
+Dry,2010-12-01,2010-12-01,1,Congo
+Wet,2011-01-01,2011-02-01,2,Congo
+Dry,2011-03-01,2011-08-01,6,Congo
+Wet,2011-09-01,2011-10-01,2,Congo
+Dry,2011-11-01,2012-01-01,3,Congo
+Wet,2012-02-01,2012-02-01,1,Congo
+Dry,2012-03-01,2012-04-01,2,Congo
+Wet,2012-05-01,2012-12-01,8,Congo
+Dry,2013-01-01,2013-02-01,2,Congo
+Wet,2013-03-01,2013-04-01,2,Congo
+Dry,2013-05-01,2013-09-01,5,Congo
+Wet,2013-10-01,2013-12-01,3,Congo
+Dry,2014-01-01,2014-01-01,1,Congo
+Wet,2014-02-01,2014-04-01,3,Congo
+Dry,2014-05-01,2014-10-01,6,Congo
+Wet,2014-11-01,2014-11-01,1,Congo
+Dry,2014-12-01,2015-01-01,2,Congo
+Wet,2015-02-01,2015-03-01,2,Congo
+Dry,2015-04-01,2015-04-01,1,Congo
+Wet,2015-05-01,2015-05-01,1,Congo
+Dry,2015-06-01,2015-10-01,5,Congo
+Wet,2015-11-01,2016-05-01,7,Congo
+Dry,2016-06-01,2016-07-01,2,Congo
+Wet,2016-08-01,2016-09-01,2,Congo
+Dry,2016-10-01,2016-11-01,2,Congo
+Wet,2016-12-01,2016-12-01,1,Congo
+Dry,2017-01-01,2017-01-01,1,Congo
+Wet,2017-02-01,2017-05-01,4,Congo
+Dry,2017-06-01,2017-06-01,1,Congo
+Wet,2017-07-01,2017-08-01,2,Congo
+Dry,2017-09-01,2017-09-01,1,Congo
+Wet,2017-10-01,2018-05-01,8,Congo
+Dry,2018-06-01,2018-07-01,2,Congo
+Wet,2018-08-01,2018-09-01,2,Congo
+Dry,2018-10-01,2018-10-01,1,Congo
+Wet,2018-11-01,2019-05-01,7,Congo
+Dry,2019-06-01,2019-06-01,1,Congo
+Wet,2019-07-01,2019-07-01,1,Congo
+Dry,2019-08-01,2019-08-01,1,Congo
+Wet,2019-09-01,2019-12-01,4,Congo
+Dry,2020-01-01,2020-04-01,4,Congo
+Wet,2020-05-01,2020-05-01,1,Congo
+Dry,2020-06-01,2020-06-01,1,Congo
+Wet,2020-07-01,2020-07-01,1,Congo
+Dry,2020-08-01,2020-08-01,1,Congo
+Wet,2020-09-01,2020-09-01,1,Congo
+Dry,2020-10-01,2020-10-01,1,Congo
+Wet,2020-11-01,2020-11-01,1,Congo
+Dry,2020-12-01,2021-02-01,3,Congo
+Wet,2021-03-01,2021-03-01,1,Congo
+Dry,2021-04-01,2021-04-01,1,Congo
+Wet,2021-05-01,2021-06-01,2,Congo
+Dry,2021-07-01,2021-07-01,1,Congo
+Wet,2021-08-01,2021-09-01,2,Congo
+Dry,2021-10-01,2022-03-01,6,Congo
+Wet,2022-04-01,2022-05-01,2,Congo
+Dry,2022-06-01,2022-06-01,1,Congo
+Wet,2022-07-01,2022-07-01,1,Congo
+Dry,2022-08-01,2022-08-01,1,Congo
+Wet,2022-09-01,2022-09-01,1,Congo
+Dry,2022-10-01,2023-03-01,6,Congo
+Wet,2023-04-01,2023-04-01,1,Congo
+Dry,2023-05-01,2023-05-01,1,Congo
+Wet,2023-06-01,2023-06-01,1,Congo
+Dry,2023-07-01,2023-09-01,3,Congo
+Wet,2023-10-01,2023-11-01,2,Congo
+Dry,2023-12-01,2024-08-01,9,Congo
+Wet,2024-09-01,2024-10-01,2,Congo
+Dry,2024-11-01,2025-01-01,3,Congo
+Wet,2025-02-01,2025-02-01,1,Congo
+Dry,2025-03-01,2025-03-01,1,Congo
+Wet,2025-04-01,2025-04-01,1,Congo
+Dry,1998-01-01,1998-03-01,3,Danube
+Wet,1998-04-01,1998-04-01,1,Danube
+Dry,1998-05-01,1998-05-01,1,Danube
+Wet,1998-06-01,1998-07-01,2,Danube
+Dry,1998-08-01,1998-08-01,1,Danube
+Wet,1998-09-01,1998-11-01,3,Danube
+Dry,1998-12-01,1999-01-01,2,Danube
+Wet,1999-02-01,1999-02-01,1,Danube
+Dry,1999-03-01,1999-03-01,1,Danube
+Wet,1999-04-01,1999-04-01,1,Danube
+Dry,1999-05-01,1999-05-01,1,Danube
+Wet,1999-06-01,1999-08-01,3,Danube
+Dry,1999-09-01,1999-10-01,2,Danube
+Wet,1999-11-01,1999-12-01,2,Danube
+Dry,2000-01-01,2000-02-01,2,Danube
+Wet,2000-03-01,2000-03-01,1,Danube
+Dry,2000-04-01,2000-06-01,3,Danube
+Wet,2000-07-01,2000-07-01,1,Danube
+Dry,2000-08-01,2000-12-01,5,Danube
+Wet,2001-01-01,2001-01-01,1,Danube
+Dry,2001-02-01,2001-02-01,1,Danube
+Wet,2001-03-01,2001-04-01,2,Danube
+Dry,2001-05-01,2001-05-01,1,Danube
+Wet,2001-06-01,2001-06-01,1,Danube
+Dry,2001-07-01,2001-08-01,2,Danube
+Wet,2001-09-01,2001-09-01,1,Danube
+Dry,2001-10-01,2001-10-01,1,Danube
+Wet,2001-11-01,2001-11-01,1,Danube
+Dry,2001-12-01,2002-03-01,4,Danube
+Wet,2002-04-01,2002-04-01,1,Danube
+Dry,2002-05-01,2002-06-01,2,Danube
+Wet,2002-07-01,2002-11-01,5,Danube
+Dry,2002-12-01,2002-12-01,1,Danube
+Wet,2003-01-01,2003-01-01,1,Danube
+Dry,2003-02-01,2003-06-01,5,Danube
+Wet,2003-07-01,2003-07-01,1,Danube
+Dry,2003-08-01,2003-09-01,2,Danube
+Wet,2003-10-01,2003-10-01,1,Danube
+Dry,2003-11-01,2003-12-01,2,Danube
+Wet,2004-01-01,2004-02-01,2,Danube
+Dry,2004-03-01,2004-03-01,1,Danube
+Wet,2004-04-01,2004-04-01,1,Danube
+Dry,2004-05-01,2004-05-01,1,Danube
+Wet,2004-06-01,2004-08-01,3,Danube
+Dry,2004-09-01,2004-10-01,2,Danube
+Wet,2004-11-01,2004-11-01,1,Danube
+Dry,2004-12-01,2004-12-01,1,Danube
+Wet,2005-01-01,2005-02-01,2,Danube
+Dry,2005-03-01,2005-03-01,1,Danube
+Wet,2005-04-01,2005-05-01,2,Danube
+Dry,2005-06-01,2005-06-01,1,Danube
+Wet,2005-07-01,2005-09-01,3,Danube
+Dry,2005-10-01,2005-11-01,2,Danube
+Wet,2005-12-01,2005-12-01,1,Danube
+Dry,2006-01-01,2006-01-01,1,Danube
+Wet,2006-02-01,2006-06-01,5,Danube
+Dry,2006-07-01,2006-07-01,1,Danube
+Wet,2006-08-01,2006-08-01,1,Danube
+Dry,2006-09-01,2006-12-01,4,Danube
+Wet,2007-01-01,2007-03-01,3,Danube
+Dry,2007-04-01,2007-04-01,1,Danube
+Wet,2007-05-01,2007-05-01,1,Danube
+Dry,2007-06-01,2007-07-01,2,Danube
+Wet,2007-08-01,2007-11-01,4,Danube
+Dry,2007-12-01,2008-02-01,3,Danube
+Wet,2008-03-01,2008-04-01,2,Danube
+Dry,2008-05-01,2008-05-01,1,Danube
+Wet,2008-06-01,2008-07-01,2,Danube
+Dry,2008-08-01,2008-11-01,4,Danube
+Wet,2008-12-01,2009-03-01,4,Danube
+Dry,2009-04-01,2009-05-01,2,Danube
+Wet,2009-06-01,2009-06-01,1,Danube
+Dry,2009-07-01,2009-09-01,3,Danube
+Wet,2009-10-01,2010-02-01,5,Danube
+Dry,2010-03-01,2010-03-01,1,Danube
+Wet,2010-04-01,2010-09-01,6,Danube
+Dry,2010-10-01,2010-10-01,1,Danube
+Wet,2010-11-01,2010-12-01,2,Danube
+Dry,2011-01-01,2011-05-01,5,Danube
+Wet,2011-06-01,2011-07-01,2,Danube
+Dry,2011-08-01,2011-11-01,4,Danube
+Wet,2011-12-01,2012-02-01,3,Danube
+Dry,2012-03-01,2012-03-01,1,Danube
+Wet,2012-04-01,2012-05-01,2,Danube
+Dry,2012-06-01,2012-09-01,4,Danube
+Wet,2012-10-01,2012-10-01,1,Danube
+Dry,2012-11-01,2012-11-01,1,Danube
+Wet,2012-12-01,2013-03-01,4,Danube
+Dry,2013-04-01,2013-04-01,1,Danube
+Wet,2013-05-01,2013-06-01,2,Danube
+Dry,2013-07-01,2013-08-01,2,Danube
+Wet,2013-09-01,2013-09-01,1,Danube
+Dry,2013-10-01,2013-10-01,1,Danube
+Wet,2013-11-01,2013-11-01,1,Danube
+Dry,2013-12-01,2013-12-01,1,Danube
+Wet,2014-01-01,2014-01-01,1,Danube
+Dry,2014-02-01,2014-03-01,2,Danube
+Wet,2014-04-01,2014-05-01,2,Danube
+Dry,2014-06-01,2014-06-01,1,Danube
+Wet,2014-07-01,2014-10-01,4,Danube
+Dry,2014-11-01,2014-11-01,1,Danube
+Wet,2014-12-01,2015-01-01,2,Danube
+Dry,2015-02-01,2015-02-01,1,Danube
+Wet,2015-03-01,2015-03-01,1,Danube
+Dry,2015-04-01,2015-04-01,1,Danube
+Wet,2015-05-01,2015-05-01,1,Danube
+Dry,2015-06-01,2015-08-01,3,Danube
+Wet,2015-09-01,2015-11-01,3,Danube
+Dry,2015-12-01,2015-12-01,1,Danube
+Wet,2016-01-01,2016-08-01,8,Danube
+Dry,2016-09-01,2016-09-01,1,Danube
+Wet,2016-10-01,2016-11-01,2,Danube
+Dry,2016-12-01,2017-03-01,4,Danube
+Wet,2017-04-01,2017-04-01,1,Danube
+Dry,2017-05-01,2017-08-01,4,Danube
+Wet,2017-09-01,2018-03-01,7,Danube
+Dry,2018-04-01,2018-05-01,2,Danube
+Wet,2018-06-01,2018-07-01,2,Danube
+Dry,2018-08-01,2018-11-01,4,Danube
+Wet,2018-12-01,2019-01-01,2,Danube
+Dry,2019-02-01,2019-03-01,2,Danube
+Wet,2019-04-01,2019-05-01,2,Danube
+Dry,2019-06-01,2019-10-01,5,Danube
+Wet,2019-11-01,2019-11-01,1,Danube
+Dry,2019-12-01,2020-01-01,2,Danube
+Wet,2020-02-01,2020-02-01,1,Danube
+Dry,2020-03-01,2020-05-01,3,Danube
+Wet,2020-06-01,2020-06-01,1,Danube
+Dry,2020-07-01,2020-07-01,1,Danube
+Wet,2020-08-01,2020-08-01,1,Danube
+Dry,2020-09-01,2020-09-01,1,Danube
+Wet,2020-10-01,2020-10-01,1,Danube
+Dry,2020-11-01,2020-11-01,1,Danube
+Wet,2020-12-01,2021-01-01,2,Danube
+Dry,2021-02-01,2021-04-01,3,Danube
+Wet,2021-05-01,2021-05-01,1,Danube
+Dry,2021-06-01,2021-06-01,1,Danube
+Wet,2021-07-01,2021-08-01,2,Danube
+Dry,2021-09-01,2021-10-01,2,Danube
+Wet,2021-11-01,2021-12-01,2,Danube
+Dry,2022-01-01,2022-03-01,3,Danube
+Wet,2022-04-01,2022-04-01,1,Danube
+Dry,2022-05-01,2022-07-01,3,Danube
+Wet,2022-08-01,2022-09-01,2,Danube
+Dry,2022-10-01,2022-10-01,1,Danube
+Wet,2022-11-01,2023-01-01,3,Danube
+Dry,2023-02-01,2023-03-01,2,Danube
+Wet,2023-04-01,2023-04-01,1,Danube
+Dry,2023-05-01,2023-07-01,3,Danube
+Wet,2023-08-01,2023-08-01,1,Danube
+Dry,2023-09-01,2023-10-01,2,Danube
+Wet,2023-11-01,2024-01-01,3,Danube
+Dry,2024-02-01,2024-04-01,3,Danube
+Wet,2024-05-01,2024-06-01,2,Danube
+Dry,2024-07-01,2024-08-01,2,Danube
+Wet,2024-09-01,2024-09-01,1,Danube
+Dry,2024-10-01,2025-02-01,5,Danube
+Wet,2025-03-01,2025-03-01,1,Danube
+Dry,2025-04-01,2025-04-01,1,Danube
+Dry,1998-01-01,1998-01-01,1,Ganges / Bhramaputra Basin
+Wet,1998-02-01,1998-03-01,2,Ganges / Bhramaputra Basin
+Dry,1998-04-01,1998-06-01,3,Ganges / Bhramaputra Basin
+Wet,1998-07-01,1998-08-01,2,Ganges / Bhramaputra Basin
+Dry,1998-09-01,1998-09-01,1,Ganges / Bhramaputra Basin
+Wet,1998-10-01,1998-11-01,2,Ganges / Bhramaputra Basin
+Dry,1998-12-01,1999-04-01,5,Ganges / Bhramaputra Basin
+Wet,1999-05-01,1999-10-01,6,Ganges / Bhramaputra Basin
+Dry,1999-11-01,2000-03-01,5,Ganges / Bhramaputra Basin
+Wet,2000-04-01,2000-06-01,3,Ganges / Bhramaputra Basin
+Dry,2000-07-01,2000-07-01,1,Ganges / Bhramaputra Basin
+Wet,2000-08-01,2000-09-01,2,Ganges / Bhramaputra Basin
+Dry,2000-10-01,2001-04-01,7,Ganges / Bhramaputra Basin
+Wet,2001-05-01,2001-06-01,2,Ganges / Bhramaputra Basin
+Dry,2001-07-01,2001-09-01,3,Ganges / Bhramaputra Basin
+Wet,2001-10-01,2001-11-01,2,Ganges / Bhramaputra Basin
+Dry,2001-12-01,2001-12-01,1,Ganges / Bhramaputra Basin
+Wet,2002-01-01,2002-02-01,2,Ganges / Bhramaputra Basin
+Dry,2002-03-01,2002-03-01,1,Ganges / Bhramaputra Basin
+Wet,2002-04-01,2002-05-01,2,Ganges / Bhramaputra Basin
+Dry,2002-06-01,2002-07-01,2,Ganges / Bhramaputra Basin
+Wet,2002-08-01,2002-08-01,1,Ganges / Bhramaputra Basin
+Dry,2002-09-01,2002-10-01,2,Ganges / Bhramaputra Basin
+Wet,2002-11-01,2002-11-01,1,Ganges / Bhramaputra Basin
+Dry,2002-12-01,2002-12-01,1,Ganges / Bhramaputra Basin
+Wet,2003-01-01,2003-03-01,3,Ganges / Bhramaputra Basin
+Dry,2003-04-01,2003-05-01,2,Ganges / Bhramaputra Basin
+Wet,2003-06-01,2003-07-01,2,Ganges / Bhramaputra Basin
+Dry,2003-08-01,2003-08-01,1,Ganges / Bhramaputra Basin
+Wet,2003-09-01,2003-10-01,2,Ganges / Bhramaputra Basin
+Dry,2003-11-01,2003-11-01,1,Ganges / Bhramaputra Basin
+Wet,2003-12-01,2004-01-01,2,Ganges / Bhramaputra Basin
+Dry,2004-02-01,2004-03-01,2,Ganges / Bhramaputra Basin
+Wet,2004-04-01,2004-07-01,4,Ganges / Bhramaputra Basin
+Dry,2004-08-01,2004-09-01,2,Ganges / Bhramaputra Basin
+Wet,2004-10-01,2004-10-01,1,Ganges / Bhramaputra Basin
+Dry,2004-11-01,2004-12-01,2,Ganges / Bhramaputra Basin
+Wet,2005-01-01,2005-03-01,3,Ganges / Bhramaputra Basin
+Dry,2005-04-01,2005-06-01,3,Ganges / Bhramaputra Basin
+Wet,2005-07-01,2005-07-01,1,Ganges / Bhramaputra Basin
+Dry,2005-08-01,2005-09-01,2,Ganges / Bhramaputra Basin
+Wet,2005-10-01,2005-10-01,1,Ganges / Bhramaputra Basin
+Dry,2005-11-01,2006-03-01,5,Ganges / Bhramaputra Basin
+Wet,2006-04-01,2006-05-01,2,Ganges / Bhramaputra Basin
+Dry,2006-06-01,2006-10-01,5,Ganges / Bhramaputra Basin
+Wet,2006-11-01,2006-11-01,1,Ganges / Bhramaputra Basin
+Dry,2006-12-01,2007-01-01,2,Ganges / Bhramaputra Basin
+Wet,2007-02-01,2007-02-01,1,Ganges / Bhramaputra Basin
+Dry,2007-03-01,2007-03-01,1,Ganges / Bhramaputra Basin
+Wet,2007-04-01,2007-04-01,1,Ganges / Bhramaputra Basin
+Dry,2007-05-01,2007-06-01,2,Ganges / Bhramaputra Basin
+Wet,2007-07-01,2007-07-01,1,Ganges / Bhramaputra Basin
+Dry,2007-08-01,2007-08-01,1,Ganges / Bhramaputra Basin
+Wet,2007-09-01,2007-09-01,1,Ganges / Bhramaputra Basin
+Dry,2007-10-01,2007-10-01,1,Ganges / Bhramaputra Basin
+Wet,2007-11-01,2007-11-01,1,Ganges / Bhramaputra Basin
+Dry,2007-12-01,2007-12-01,1,Ganges / Bhramaputra Basin
+Wet,2008-01-01,2008-01-01,1,Ganges / Bhramaputra Basin
+Dry,2008-02-01,2008-02-01,1,Ganges / Bhramaputra Basin
+Wet,2008-03-01,2008-03-01,1,Ganges / Bhramaputra Basin
+Dry,2008-04-01,2008-05-01,2,Ganges / Bhramaputra Basin
+Wet,2008-06-01,2008-08-01,3,Ganges / Bhramaputra Basin
+Dry,2008-09-01,2009-07-01,11,Ganges / Bhramaputra Basin
+Wet,2009-08-01,2009-08-01,1,Ganges / Bhramaputra Basin
+Dry,2009-09-01,2009-09-01,1,Ganges / Bhramaputra Basin
+Wet,2009-10-01,2009-11-01,2,Ganges / Bhramaputra Basin
+Dry,2009-12-01,2010-02-01,3,Ganges / Bhramaputra Basin
+Wet,2010-03-01,2010-05-01,3,Ganges / Bhramaputra Basin
+Dry,2010-06-01,2010-07-01,2,Ganges / Bhramaputra Basin
+Wet,2010-08-01,2010-09-01,2,Ganges / Bhramaputra Basin
+Dry,2010-10-01,2010-10-01,1,Ganges / Bhramaputra Basin
+Wet,2010-11-01,2010-12-01,2,Ganges / Bhramaputra Basin
+Dry,2011-01-01,2011-02-01,2,Ganges / Bhramaputra Basin
+Wet,2011-03-01,2011-03-01,1,Ganges / Bhramaputra Basin
+Dry,2011-04-01,2011-05-01,2,Ganges / Bhramaputra Basin
+Wet,2011-06-01,2011-06-01,1,Ganges / Bhramaputra Basin
+Dry,2011-07-01,2011-07-01,1,Ganges / Bhramaputra Basin
+Wet,2011-08-01,2011-09-01,2,Ganges / Bhramaputra Basin
+Dry,2011-10-01,2011-12-01,3,Ganges / Bhramaputra Basin
+Wet,2012-01-01,2012-01-01,1,Ganges / Bhramaputra Basin
+Dry,2012-02-01,2012-03-01,2,Ganges / Bhramaputra Basin
+Wet,2012-04-01,2012-04-01,1,Ganges / Bhramaputra Basin
+Dry,2012-05-01,2012-06-01,2,Ganges / Bhramaputra Basin
+Wet,2012-07-01,2012-09-01,3,Ganges / Bhramaputra Basin
+Dry,2012-10-01,2012-10-01,1,Ganges / Bhramaputra Basin
+Wet,2012-11-01,2012-11-01,1,Ganges / Bhramaputra Basin
+Dry,2012-12-01,2012-12-01,1,Ganges / Bhramaputra Basin
+Wet,2013-01-01,2013-02-01,2,Ganges / Bhramaputra Basin
+Dry,2013-03-01,2013-04-01,2,Ganges / Bhramaputra Basin
+Wet,2013-05-01,2013-06-01,2,Ganges / Bhramaputra Basin
+Dry,2013-07-01,2013-07-01,1,Ganges / Bhramaputra Basin
+Wet,2013-08-01,2013-08-01,1,Ganges / Bhramaputra Basin
+Dry,2013-09-01,2013-09-01,1,Ganges / Bhramaputra Basin
+Wet,2013-10-01,2013-10-01,1,Ganges / Bhramaputra Basin
+Dry,2013-11-01,2013-12-01,2,Ganges / Bhramaputra Basin
+Wet,2014-01-01,2014-02-01,2,Ganges / Bhramaputra Basin
+Dry,2014-03-01,2014-07-01,5,Ganges / Bhramaputra Basin
+Wet,2014-08-01,2014-09-01,2,Ganges / Bhramaputra Basin
+Dry,2014-10-01,2014-11-01,2,Ganges / Bhramaputra Basin
+Wet,2014-12-01,2015-01-01,2,Ganges / Bhramaputra Basin
+Dry,2015-02-01,2015-02-01,1,Ganges / Bhramaputra Basin
+Wet,2015-03-01,2015-04-01,2,Ganges / Bhramaputra Basin
+Dry,2015-05-01,2015-05-01,1,Ganges / Bhramaputra Basin
+Wet,2015-06-01,2015-06-01,1,Ganges / Bhramaputra Basin
+Dry,2015-07-01,2015-07-01,1,Ganges / Bhramaputra Basin
+Wet,2015-08-01,2015-08-01,1,Ganges / Bhramaputra Basin
+Dry,2015-09-01,2016-02-01,6,Ganges / Bhramaputra Basin
+Wet,2016-03-01,2016-05-01,3,Ganges / Bhramaputra Basin
+Dry,2016-06-01,2016-06-01,1,Ganges / Bhramaputra Basin
+Wet,2016-07-01,2016-07-01,1,Ganges / Bhramaputra Basin
+Dry,2016-08-01,2016-10-01,3,Ganges / Bhramaputra Basin
+Wet,2016-11-01,2016-11-01,1,Ganges / Bhramaputra Basin
+Dry,2016-12-01,2017-02-01,3,Ganges / Bhramaputra Basin
+Wet,2017-03-01,2017-04-01,2,Ganges / Bhramaputra Basin
+Dry,2017-05-01,2017-09-01,5,Ganges / Bhramaputra Basin
+Wet,2017-10-01,2017-10-01,1,Ganges / Bhramaputra Basin
+Dry,2017-11-01,2017-11-01,1,Ganges / Bhramaputra Basin
+Wet,2017-12-01,2017-12-01,1,Ganges / Bhramaputra Basin
+Dry,2018-01-01,2018-03-01,3,Ganges / Bhramaputra Basin
+Wet,2018-04-01,2018-04-01,1,Ganges / Bhramaputra Basin
+Dry,2018-05-01,2018-06-01,2,Ganges / Bhramaputra Basin
+Wet,2018-07-01,2018-08-01,2,Ganges / Bhramaputra Basin
+Dry,2018-09-01,2018-11-01,3,Ganges / Bhramaputra Basin
+Wet,2018-12-01,2019-02-01,3,Ganges / Bhramaputra Basin
+Dry,2019-03-01,2019-06-01,4,Ganges / Bhramaputra Basin
+Wet,2019-07-01,2019-07-01,1,Ganges / Bhramaputra Basin
+Dry,2019-08-01,2019-08-01,1,Ganges / Bhramaputra Basin
+Wet,2019-09-01,2019-09-01,1,Ganges / Bhramaputra Basin
+Dry,2019-10-01,2019-10-01,1,Ganges / Bhramaputra Basin
+Wet,2019-11-01,2020-01-01,3,Ganges / Bhramaputra Basin
+Dry,2020-02-01,2020-02-01,1,Ganges / Bhramaputra Basin
+Wet,2020-03-01,2020-07-01,5,Ganges / Bhramaputra Basin
+Dry,2020-08-01,2020-08-01,1,Ganges / Bhramaputra Basin
+Wet,2020-09-01,2020-09-01,1,Ganges / Bhramaputra Basin
+Dry,2020-10-01,2020-10-01,1,Ganges / Bhramaputra Basin
+Wet,2020-11-01,2020-11-01,1,Ganges / Bhramaputra Basin
+Dry,2020-12-01,2021-04-01,5,Ganges / Bhramaputra Basin
+Wet,2021-05-01,2021-06-01,2,Ganges / Bhramaputra Basin
+Dry,2021-07-01,2021-07-01,1,Ganges / Bhramaputra Basin
+Wet,2021-08-01,2021-08-01,1,Ganges / Bhramaputra Basin
+Dry,2021-09-01,2021-09-01,1,Ganges / Bhramaputra Basin
+Wet,2021-10-01,2021-10-01,1,Ganges / Bhramaputra Basin
+Dry,2021-11-01,2021-11-01,1,Ganges / Bhramaputra Basin
+Wet,2021-12-01,2022-02-01,3,Ganges / Bhramaputra Basin
+Dry,2022-03-01,2022-03-01,1,Ganges / Bhramaputra Basin
+Wet,2022-04-01,2022-06-01,3,Ganges / Bhramaputra Basin
+Dry,2022-07-01,2022-08-01,2,Ganges / Bhramaputra Basin
+Wet,2022-09-01,2022-10-01,2,Ganges / Bhramaputra Basin
+Dry,2022-11-01,2023-02-01,4,Ganges / Bhramaputra Basin
+Wet,2023-03-01,2023-03-01,1,Ganges / Bhramaputra Basin
+Dry,2023-04-01,2023-09-01,6,Ganges / Bhramaputra Basin
+Wet,2023-10-01,2023-12-01,3,Ganges / Bhramaputra Basin
+Dry,2024-01-01,2024-02-01,2,Ganges / Bhramaputra Basin
+Wet,2024-03-01,2024-03-01,1,Ganges / Bhramaputra Basin
+Dry,2024-04-01,2024-05-01,2,Ganges / Bhramaputra Basin
+Wet,2024-06-01,2024-09-01,4,Ganges / Bhramaputra Basin
+Dry,2024-10-01,2024-11-01,2,Ganges / Bhramaputra Basin
+Wet,2024-12-01,2024-12-01,1,Ganges / Bhramaputra Basin
+Dry,2025-01-01,2025-03-01,3,Ganges / Bhramaputra Basin
+Wet,2025-04-01,2025-04-01,1,Ganges / Bhramaputra Basin
+Dry,1998-01-01,1998-01-01,1,Mekong Basin
+Wet,1998-02-01,1998-02-01,1,Mekong Basin
+Dry,1998-03-01,1998-10-01,8,Mekong Basin
+Wet,1998-11-01,1999-01-01,3,Mekong Basin
+Dry,1999-02-01,1999-02-01,1,Mekong Basin
+Wet,1999-03-01,1999-06-01,4,Mekong Basin
+Dry,1999-07-01,1999-09-01,3,Mekong Basin
+Wet,1999-10-01,2000-02-01,5,Mekong Basin
+Dry,2000-03-01,2000-03-01,1,Mekong Basin
+Wet,2000-04-01,2000-08-01,5,Mekong Basin
+Dry,2000-09-01,2000-09-01,1,Mekong Basin
+Wet,2000-10-01,2000-10-01,1,Mekong Basin
+Dry,2000-11-01,2000-11-01,1,Mekong Basin
+Wet,2000-12-01,2000-12-01,1,Mekong Basin
+Dry,2001-01-01,2001-02-01,2,Mekong Basin
+Wet,2001-03-01,2001-03-01,1,Mekong Basin
+Dry,2001-04-01,2001-04-01,1,Mekong Basin
+Wet,2001-05-01,2001-06-01,2,Mekong Basin
+Dry,2001-07-01,2001-07-01,1,Mekong Basin
+Wet,2001-08-01,2001-08-01,1,Mekong Basin
+Dry,2001-09-01,2001-09-01,1,Mekong Basin
+Wet,2001-10-01,2001-10-01,1,Mekong Basin
+Dry,2001-11-01,2002-04-01,6,Mekong Basin
+Wet,2002-05-01,2002-09-01,5,Mekong Basin
+Dry,2002-10-01,2002-10-01,1,Mekong Basin
+Wet,2002-11-01,2002-12-01,2,Mekong Basin
+Dry,2003-01-01,2003-01-01,1,Mekong Basin
+Wet,2003-02-01,2003-03-01,2,Mekong Basin
+Dry,2003-04-01,2003-08-01,5,Mekong Basin
+Wet,2003-09-01,2003-09-01,1,Mekong Basin
+Dry,2003-10-01,2004-01-01,4,Mekong Basin
+Wet,2004-02-01,2004-02-01,1,Mekong Basin
+Dry,2004-03-01,2004-03-01,1,Mekong Basin
+Wet,2004-04-01,2004-07-01,4,Mekong Basin
+Dry,2004-08-01,2005-06-01,11,Mekong Basin
+Wet,2005-07-01,2005-09-01,3,Mekong Basin
+Dry,2005-10-01,2005-10-01,1,Mekong Basin
+Wet,2005-11-01,2005-12-01,2,Mekong Basin
+Dry,2006-01-01,2006-01-01,1,Mekong Basin
+Wet,2006-02-01,2006-04-01,3,Mekong Basin
+Dry,2006-05-01,2006-06-01,2,Mekong Basin
+Wet,2006-07-01,2006-08-01,2,Mekong Basin
+Dry,2006-09-01,2006-09-01,1,Mekong Basin
+Wet,2006-10-01,2006-10-01,1,Mekong Basin
+Dry,2006-11-01,2007-03-01,5,Mekong Basin
+Wet,2007-04-01,2007-05-01,2,Mekong Basin
+Dry,2007-06-01,2007-07-01,2,Mekong Basin
+Wet,2007-08-01,2007-08-01,1,Mekong Basin
+Dry,2007-09-01,2007-09-01,1,Mekong Basin
+Wet,2007-10-01,2007-11-01,2,Mekong Basin
+Dry,2007-12-01,2007-12-01,1,Mekong Basin
+Wet,2008-01-01,2008-06-01,6,Mekong Basin
+Dry,2008-07-01,2008-08-01,2,Mekong Basin
+Wet,2008-09-01,2008-11-01,3,Mekong Basin
+Dry,2008-12-01,2009-02-01,3,Mekong Basin
+Wet,2009-03-01,2009-05-01,3,Mekong Basin
+Dry,2009-06-01,2009-06-01,1,Mekong Basin
+Wet,2009-07-01,2009-07-01,1,Mekong Basin
+Dry,2009-08-01,2009-08-01,1,Mekong Basin
+Wet,2009-09-01,2009-09-01,1,Mekong Basin
+Dry,2009-10-01,2009-12-01,3,Mekong Basin
+Wet,2010-01-01,2010-01-01,1,Mekong Basin
+Dry,2010-02-01,2010-07-01,6,Mekong Basin
+Wet,2010-08-01,2010-08-01,1,Mekong Basin
+Dry,2010-09-01,2010-09-01,1,Mekong Basin
+Wet,2010-10-01,2010-10-01,1,Mekong Basin
+Dry,2010-11-01,2010-11-01,1,Mekong Basin
+Wet,2010-12-01,2010-12-01,1,Mekong Basin
+Dry,2011-01-01,2011-02-01,2,Mekong Basin
+Wet,2011-03-01,2011-06-01,4,Mekong Basin
+Dry,2011-07-01,2011-07-01,1,Mekong Basin
+Wet,2011-08-01,2011-10-01,3,Mekong Basin
+Dry,2011-11-01,2011-12-01,2,Mekong Basin
+Wet,2012-01-01,2012-01-01,1,Mekong Basin
+Dry,2012-02-01,2012-02-01,1,Mekong Basin
+Wet,2012-03-01,2012-05-01,3,Mekong Basin
+Dry,2012-06-01,2012-10-01,5,Mekong Basin
+Wet,2012-11-01,2012-11-01,1,Mekong Basin
+Dry,2012-12-01,2012-12-01,1,Mekong Basin
+Wet,2013-01-01,2013-01-01,1,Mekong Basin
+Dry,2013-02-01,2013-05-01,4,Mekong Basin
+Wet,2013-06-01,2013-07-01,2,Mekong Basin
+Dry,2013-08-01,2013-08-01,1,Mekong Basin
+Wet,2013-09-01,2013-10-01,2,Mekong Basin
+Dry,2013-11-01,2013-11-01,1,Mekong Basin
+Wet,2013-12-01,2013-12-01,1,Mekong Basin
+Dry,2014-01-01,2014-03-01,3,Mekong Basin
+Wet,2014-04-01,2014-04-01,1,Mekong Basin
+Dry,2014-05-01,2014-05-01,1,Mekong Basin
+Wet,2014-06-01,2014-07-01,2,Mekong Basin
+Dry,2014-08-01,2014-10-01,3,Mekong Basin
+Wet,2014-11-01,2014-11-01,1,Mekong Basin
+Dry,2014-12-01,2014-12-01,1,Mekong Basin
+Wet,2015-01-01,2015-01-01,1,Mekong Basin
+Dry,2015-02-01,2015-10-01,9,Mekong Basin
+Wet,2015-11-01,2016-01-01,3,Mekong Basin
+Dry,2016-02-01,2016-05-01,4,Mekong Basin
+Wet,2016-06-01,2016-06-01,1,Mekong Basin
+Dry,2016-07-01,2016-08-01,2,Mekong Basin
+Wet,2016-09-01,2017-01-01,5,Mekong Basin
+Dry,2017-02-01,2017-02-01,1,Mekong Basin
+Wet,2017-03-01,2017-05-01,3,Mekong Basin
+Dry,2017-06-01,2017-06-01,1,Mekong Basin
+Wet,2017-07-01,2017-07-01,1,Mekong Basin
+Dry,2017-08-01,2017-09-01,2,Mekong Basin
+Wet,2017-10-01,2018-01-01,4,Mekong Basin
+Dry,2018-02-01,2018-02-01,1,Mekong Basin
+Wet,2018-03-01,2018-04-01,2,Mekong Basin
+Dry,2018-05-01,2018-05-01,1,Mekong Basin
+Wet,2018-06-01,2018-08-01,3,Mekong Basin
+Dry,2018-09-01,2018-11-01,3,Mekong Basin
+Wet,2018-12-01,2019-01-01,2,Mekong Basin
+Dry,2019-02-01,2019-07-01,6,Mekong Basin
+Wet,2019-08-01,2019-09-01,2,Mekong Basin
+Dry,2019-10-01,2020-03-01,6,Mekong Basin
+Wet,2020-04-01,2020-04-01,1,Mekong Basin
+Dry,2020-05-01,2020-07-01,3,Mekong Basin
+Wet,2020-08-01,2020-08-01,1,Mekong Basin
+Dry,2020-09-01,2020-09-01,1,Mekong Basin
+Wet,2020-10-01,2020-10-01,1,Mekong Basin
+Dry,2020-11-01,2021-01-01,3,Mekong Basin
+Wet,2021-02-01,2021-02-01,1,Mekong Basin
+Dry,2021-03-01,2021-03-01,1,Mekong Basin
+Wet,2021-04-01,2021-04-01,1,Mekong Basin
+Dry,2021-05-01,2021-08-01,4,Mekong Basin
+Wet,2021-09-01,2021-11-01,3,Mekong Basin
+Dry,2021-12-01,2021-12-01,1,Mekong Basin
+Wet,2022-01-01,2022-05-01,5,Mekong Basin
+Dry,2022-06-01,2022-07-01,2,Mekong Basin
+Wet,2022-08-01,2022-09-01,2,Mekong Basin
+Dry,2022-10-01,2022-10-01,1,Mekong Basin
+Wet,2022-11-01,2022-12-01,2,Mekong Basin
+Dry,2023-01-01,2023-05-01,5,Mekong Basin
+Wet,2023-06-01,2023-06-01,1,Mekong Basin
+Dry,2023-07-01,2023-08-01,2,Mekong Basin
+Wet,2023-09-01,2023-10-01,2,Mekong Basin
+Dry,2023-11-01,2024-04-01,6,Mekong Basin
+Wet,2024-05-01,2024-07-01,3,Mekong Basin
+Dry,2024-08-01,2024-08-01,1,Mekong Basin
+Wet,2024-09-01,2024-09-01,1,Mekong Basin
+Dry,2024-10-01,2025-01-01,4,Mekong Basin
+Wet,2025-02-01,2025-02-01,1,Mekong Basin
+Dry,2025-03-01,2025-04-01,2,Mekong Basin
+Wet,1998-01-01,1998-03-01,3,Mississippi / Missouri
+Dry,1998-04-01,1998-05-01,2,Mississippi / Missouri
+Wet,1998-06-01,1998-07-01,2,Mississippi / Missouri
+Dry,1998-08-01,1998-09-01,2,Mississippi / Missouri
+Wet,1998-10-01,1998-11-01,2,Mississippi / Missouri
+Dry,1998-12-01,1998-12-01,1,Mississippi / Missouri
+Wet,1999-01-01,1999-01-01,1,Mississippi / Missouri
+Dry,1999-02-01,1999-03-01,2,Mississippi / Missouri
+Wet,1999-04-01,1999-06-01,3,Mississippi / Missouri
+Dry,1999-07-01,2000-01-01,7,Mississippi / Missouri
+Wet,2000-02-01,2000-03-01,2,Mississippi / Missouri
+Dry,2000-04-01,2000-05-01,2,Mississippi / Missouri
+Wet,2000-06-01,2000-06-01,1,Mississippi / Missouri
+Dry,2000-07-01,2000-10-01,4,Mississippi / Missouri
+Wet,2000-11-01,2000-11-01,1,Mississippi / Missouri
+Dry,2000-12-01,2001-01-01,2,Mississippi / Missouri
+Wet,2001-02-01,2001-02-01,1,Mississippi / Missouri
+Dry,2001-03-01,2001-04-01,2,Mississippi / Missouri
+Wet,2001-05-01,2001-07-01,3,Mississippi / Missouri
+Dry,2001-08-01,2001-08-01,1,Mississippi / Missouri
+Wet,2001-09-01,2001-09-01,1,Mississippi / Missouri
+Dry,2001-10-01,2001-10-01,1,Mississippi / Missouri
+Wet,2001-11-01,2001-11-01,1,Mississippi / Missouri
+Dry,2001-12-01,2002-02-01,3,Mississippi / Missouri
+Wet,2002-03-01,2002-03-01,1,Mississippi / Missouri
+Dry,2002-04-01,2002-07-01,4,Mississippi / Missouri
+Wet,2002-08-01,2002-10-01,3,Mississippi / Missouri
+Dry,2002-11-01,2002-11-01,1,Mississippi / Missouri
+Wet,2002-12-01,2002-12-01,1,Mississippi / Missouri
+Dry,2003-01-01,2003-01-01,1,Mississippi / Missouri
+Wet,2003-02-01,2003-02-01,1,Mississippi / Missouri
+Dry,2003-03-01,2003-04-01,2,Mississippi / Missouri
+Wet,2003-05-01,2003-06-01,2,Mississippi / Missouri
+Dry,2003-07-01,2003-08-01,2,Mississippi / Missouri
+Wet,2003-09-01,2003-09-01,1,Mississippi / Missouri
+Dry,2003-10-01,2003-10-01,1,Mississippi / Missouri
+Wet,2003-11-01,2003-11-01,1,Mississippi / Missouri
+Dry,2003-12-01,2004-01-01,2,Mississippi / Missouri
+Wet,2004-02-01,2004-03-01,2,Mississippi / Missouri
+Dry,2004-04-01,2004-04-01,1,Mississippi / Missouri
+Wet,2004-05-01,2004-07-01,3,Mississippi / Missouri
+Dry,2004-08-01,2004-08-01,1,Mississippi / Missouri
+Wet,2004-09-01,2004-11-01,3,Mississippi / Missouri
+Dry,2004-12-01,2004-12-01,1,Mississippi / Missouri
+Wet,2005-01-01,2005-01-01,1,Mississippi / Missouri
+Dry,2005-02-01,2005-05-01,4,Mississippi / Missouri
+Wet,2005-06-01,2005-06-01,1,Mississippi / Missouri
+Dry,2005-07-01,2005-07-01,1,Mississippi / Missouri
+Wet,2005-08-01,2005-08-01,1,Mississippi / Missouri
+Dry,2005-09-01,2005-10-01,2,Mississippi / Missouri
+Wet,2005-11-01,2005-11-01,1,Mississippi / Missouri
+Dry,2005-12-01,2005-12-01,1,Mississippi / Missouri
+Wet,2006-01-01,2006-01-01,1,Mississippi / Missouri
+Dry,2006-02-01,2006-02-01,1,Mississippi / Missouri
+Wet,2006-03-01,2006-03-01,1,Mississippi / Missouri
+Dry,2006-04-01,2006-07-01,4,Mississippi / Missouri
+Wet,2006-08-01,2006-10-01,3,Mississippi / Missouri
+Dry,2006-11-01,2006-11-01,1,Mississippi / Missouri
+Wet,2006-12-01,2007-01-01,2,Mississippi / Missouri
+Dry,2007-02-01,2007-02-01,1,Mississippi / Missouri
+Wet,2007-03-01,2007-03-01,1,Mississippi / Missouri
+Dry,2007-04-01,2007-04-01,1,Mississippi / Missouri
+Wet,2007-05-01,2007-05-01,1,Mississippi / Missouri
+Dry,2007-06-01,2007-07-01,2,Mississippi / Missouri
+Wet,2007-08-01,2007-08-01,1,Mississippi / Missouri
+Dry,2007-09-01,2007-09-01,1,Mississippi / Missouri
+Wet,2007-10-01,2007-10-01,1,Mississippi / Missouri
+Dry,2007-11-01,2007-11-01,1,Mississippi / Missouri
+Wet,2007-12-01,2007-12-01,1,Mississippi / Missouri
+Dry,2008-01-01,2008-01-01,1,Mississippi / Missouri
+Wet,2008-02-01,2008-06-01,5,Mississippi / Missouri
+Dry,2008-07-01,2008-08-01,2,Mississippi / Missouri
+Wet,2008-09-01,2008-10-01,2,Mississippi / Missouri
+Dry,2008-11-01,2008-11-01,1,Mississippi / Missouri
+Wet,2008-12-01,2008-12-01,1,Mississippi / Missouri
+Dry,2009-01-01,2009-02-01,2,Mississippi / Missouri
+Wet,2009-03-01,2009-04-01,2,Mississippi / Missouri
+Dry,2009-05-01,2009-06-01,2,Mississippi / Missouri
+Wet,2009-07-01,2009-10-01,4,Mississippi / Missouri
+Dry,2009-11-01,2009-11-01,1,Mississippi / Missouri
+Wet,2009-12-01,2009-12-01,1,Mississippi / Missouri
+Dry,2010-01-01,2010-04-01,4,Mississippi / Missouri
+Wet,2010-05-01,2010-07-01,3,Mississippi / Missouri
+Dry,2010-08-01,2010-08-01,1,Mississippi / Missouri
+Wet,2010-09-01,2010-09-01,1,Mississippi / Missouri
+Dry,2010-10-01,2010-10-01,1,Mississippi / Missouri
+Wet,2010-11-01,2010-11-01,1,Mississippi / Missouri
+Dry,2010-12-01,2011-01-01,2,Mississippi / Missouri
+Wet,2011-02-01,2011-02-01,1,Mississippi / Missouri
+Dry,2011-03-01,2011-03-01,1,Mississippi / Missouri
+Wet,2011-04-01,2011-05-01,2,Mississippi / Missouri
+Dry,2011-06-01,2011-10-01,5,Mississippi / Missouri
+Wet,2011-11-01,2011-12-01,2,Mississippi / Missouri
+Dry,2012-01-01,2012-02-01,2,Mississippi / Missouri
+Wet,2012-03-01,2012-03-01,1,Mississippi / Missouri
+Dry,2012-04-01,2012-12-01,9,Mississippi / Missouri
+Wet,2013-01-01,2013-01-01,1,Mississippi / Missouri
+Dry,2013-02-01,2013-03-01,2,Mississippi / Missouri
+Wet,2013-04-01,2013-05-01,2,Mississippi / Missouri
+Dry,2013-06-01,2013-08-01,3,Mississippi / Missouri
+Wet,2013-09-01,2013-10-01,2,Mississippi / Missouri
+Dry,2013-11-01,2014-05-01,7,Mississippi / Missouri
+Wet,2014-06-01,2014-06-01,1,Mississippi / Missouri
+Dry,2014-07-01,2014-07-01,1,Mississippi / Missouri
+Wet,2014-08-01,2014-08-01,1,Mississippi / Missouri
+Dry,2014-09-01,2015-03-01,7,Mississippi / Missouri
+Wet,2015-04-01,2015-07-01,4,Mississippi / Missouri
+Dry,2015-08-01,2015-10-01,3,Mississippi / Missouri
+Wet,2015-11-01,2015-12-01,2,Mississippi / Missouri
+Dry,2016-01-01,2016-02-01,2,Mississippi / Missouri
+Wet,2016-03-01,2016-04-01,2,Mississippi / Missouri
+Dry,2016-05-01,2016-06-01,2,Mississippi / Missouri
+Wet,2016-07-01,2016-09-01,3,Mississippi / Missouri
+Dry,2016-10-01,2016-12-01,3,Mississippi / Missouri
+Wet,2017-01-01,2017-01-01,1,Mississippi / Missouri
+Dry,2017-02-01,2017-02-01,1,Mississippi / Missouri
+Wet,2017-03-01,2017-04-01,2,Mississippi / Missouri
+Dry,2017-05-01,2017-07-01,3,Mississippi / Missouri
+Wet,2017-08-01,2017-08-01,1,Mississippi / Missouri
+Dry,2017-09-01,2017-09-01,1,Mississippi / Missouri
+Wet,2017-10-01,2017-10-01,1,Mississippi / Missouri
+Dry,2017-11-01,2018-01-01,3,Mississippi / Missouri
+Wet,2018-02-01,2018-02-01,1,Mississippi / Missouri
+Dry,2018-03-01,2018-05-01,3,Mississippi / Missouri
+Wet,2018-06-01,2018-06-01,1,Mississippi / Missouri
+Dry,2018-07-01,2018-07-01,1,Mississippi / Missouri
+Wet,2018-08-01,2019-02-01,7,Mississippi / Missouri
+Dry,2019-03-01,2019-03-01,1,Mississippi / Missouri
+Wet,2019-04-01,2019-11-01,8,Mississippi / Missouri
+Dry,2019-12-01,2019-12-01,1,Mississippi / Missouri
+Wet,2020-01-01,2020-03-01,3,Mississippi / Missouri
+Dry,2020-04-01,2020-06-01,3,Mississippi / Missouri
+Wet,2020-07-01,2020-07-01,1,Mississippi / Missouri
+Dry,2020-08-01,2020-09-01,2,Mississippi / Missouri
+Wet,2020-10-01,2020-10-01,1,Mississippi / Missouri
+Dry,2020-11-01,2021-02-01,4,Mississippi / Missouri
+Wet,2021-03-01,2021-03-01,1,Mississippi / Missouri
+Dry,2021-04-01,2021-06-01,3,Mississippi / Missouri
+Wet,2021-07-01,2021-08-01,2,Mississippi / Missouri
+Dry,2021-09-01,2021-09-01,1,Mississippi / Missouri
+Wet,2021-10-01,2021-10-01,1,Mississippi / Missouri
+Dry,2021-11-01,2022-01-01,3,Mississippi / Missouri
+Wet,2022-02-01,2022-02-01,1,Mississippi / Missouri
+Dry,2022-03-01,2022-04-01,2,Mississippi / Missouri
+Wet,2022-05-01,2022-05-01,1,Mississippi / Missouri
+Dry,2022-06-01,2022-06-01,1,Mississippi / Missouri
+Wet,2022-07-01,2022-07-01,1,Mississippi / Missouri
+Dry,2022-08-01,2022-10-01,3,Mississippi / Missouri
+Wet,2022-11-01,2023-03-01,5,Mississippi / Missouri
+Dry,2023-04-01,2023-06-01,3,Mississippi / Missouri
+Wet,2023-07-01,2023-07-01,1,Mississippi / Missouri
+Dry,2023-08-01,2023-12-01,5,Mississippi / Missouri
+Wet,2024-01-01,2024-01-01,1,Mississippi / Missouri
+Dry,2024-02-01,2024-03-01,2,Mississippi / Missouri
+Wet,2024-04-01,2024-05-01,2,Mississippi / Missouri
+Dry,2024-06-01,2024-06-01,1,Mississippi / Missouri
+Wet,2024-07-01,2024-07-01,1,Mississippi / Missouri
+Dry,2024-08-01,2024-10-01,3,Mississippi / Missouri
+Wet,2024-11-01,2024-12-01,2,Mississippi / Missouri
+Dry,2025-01-01,2025-03-01,3,Mississippi / Missouri
+Wet,2025-04-01,2025-04-01,1,Mississippi / Missouri
+Wet,1998-01-01,1998-01-01,1,Murray
+Dry,1998-02-01,1998-03-01,2,Murray
+Wet,1998-04-01,1998-10-01,7,Murray
+Dry,1998-11-01,1998-12-01,2,Murray
+Wet,1999-01-01,1999-01-01,1,Murray
+Dry,1999-02-01,1999-02-01,1,Murray
+Wet,1999-03-01,1999-03-01,1,Murray
+Dry,1999-04-01,1999-05-01,2,Murray
+Wet,1999-06-01,1999-06-01,1,Murray
+Dry,1999-07-01,1999-07-01,1,Murray
+Wet,1999-08-01,1999-08-01,1,Murray
+Dry,1999-09-01,1999-09-01,1,Murray
+Wet,1999-10-01,1999-12-01,3,Murray
+Dry,2000-01-01,2000-01-01,1,Murray
+Wet,2000-02-01,2000-05-01,4,Murray
+Dry,2000-06-01,2000-07-01,2,Murray
+Wet,2000-08-01,2000-08-01,1,Murray
+Dry,2000-09-01,2000-09-01,1,Murray
+Wet,2000-10-01,2000-11-01,2,Murray
+Dry,2000-12-01,2001-05-01,6,Murray
+Wet,2001-06-01,2001-07-01,2,Murray
+Dry,2001-08-01,2001-09-01,2,Murray
+Wet,2001-10-01,2001-10-01,1,Murray
+Dry,2001-11-01,2002-01-01,3,Murray
+Wet,2002-02-01,2002-02-01,1,Murray
+Dry,2002-03-01,2003-01-01,11,Murray
+Wet,2003-02-01,2003-02-01,1,Murray
+Dry,2003-03-01,2003-03-01,1,Murray
+Wet,2003-04-01,2003-04-01,1,Murray
+Dry,2003-05-01,2003-05-01,1,Murray
+Wet,2003-06-01,2003-08-01,3,Murray
+Dry,2003-09-01,2003-09-01,1,Murray
+Wet,2003-10-01,2003-10-01,1,Murray
+Dry,2003-11-01,2003-11-01,1,Murray
+Wet,2003-12-01,2004-01-01,2,Murray
+Dry,2004-02-01,2004-07-01,6,Murray
+Wet,2004-08-01,2004-09-01,2,Murray
+Dry,2004-10-01,2004-10-01,1,Murray
+Wet,2004-11-01,2004-12-01,2,Murray
+Dry,2005-01-01,2005-05-01,5,Murray
+Wet,2005-06-01,2005-06-01,1,Murray
+Dry,2005-07-01,2005-07-01,1,Murray
+Wet,2005-08-01,2005-10-01,3,Murray
+Dry,2005-11-01,2006-06-01,8,Murray
+Wet,2006-07-01,2006-07-01,1,Murray
+Dry,2006-08-01,2007-04-01,9,Murray
+Wet,2007-05-01,2007-06-01,2,Murray
+Dry,2007-07-01,2007-10-01,4,Murray
+Wet,2007-11-01,2008-02-01,4,Murray
+Dry,2008-03-01,2008-05-01,3,Murray
+Wet,2008-06-01,2008-07-01,2,Murray
+Dry,2008-08-01,2008-10-01,3,Murray
+Wet,2008-11-01,2008-12-01,2,Murray
+Dry,2009-01-01,2009-03-01,3,Murray
+Wet,2009-04-01,2009-06-01,3,Murray
+Dry,2009-07-01,2009-11-01,5,Murray
+Wet,2009-12-01,2009-12-01,1,Murray
+Dry,2010-01-01,2010-01-01,1,Murray
+Wet,2010-02-01,2010-03-01,2,Murray
+Dry,2010-04-01,2010-04-01,1,Murray
+Wet,2010-05-01,2010-05-01,1,Murray
+Dry,2010-06-01,2010-06-01,1,Murray
+Wet,2010-07-01,2011-03-01,9,Murray
+Dry,2011-04-01,2011-07-01,4,Murray
+Wet,2011-08-01,2011-09-01,2,Murray
+Dry,2011-10-01,2011-10-01,1,Murray
+Wet,2011-11-01,2012-03-01,5,Murray
+Dry,2012-04-01,2012-06-01,3,Murray
+Wet,2012-07-01,2012-07-01,1,Murray
+Dry,2012-08-01,2013-01-01,6,Murray
+Wet,2013-02-01,2013-02-01,1,Murray
+Dry,2013-03-01,2013-04-01,2,Murray
+Wet,2013-05-01,2013-07-01,3,Murray
+Dry,2013-08-01,2014-01-01,6,Murray
+Wet,2014-02-01,2014-05-01,4,Murray
+Dry,2014-06-01,2014-07-01,2,Murray
+Wet,2014-08-01,2014-08-01,1,Murray
+Dry,2014-09-01,2014-11-01,3,Murray
+Wet,2014-12-01,2015-01-01,2,Murray
+Dry,2015-02-01,2015-03-01,2,Murray
+Wet,2015-04-01,2015-04-01,1,Murray
+Dry,2015-05-01,2015-05-01,1,Murray
+Wet,2015-06-01,2015-08-01,3,Murray
+Dry,2015-09-01,2015-12-01,4,Murray
+Wet,2016-01-01,2016-01-01,1,Murray
+Dry,2016-02-01,2016-04-01,3,Murray
+Wet,2016-05-01,2016-09-01,5,Murray
+Dry,2016-10-01,2016-11-01,2,Murray
+Wet,2016-12-01,2016-12-01,1,Murray
+Dry,2017-01-01,2017-02-01,2,Murray
+Wet,2017-03-01,2017-04-01,2,Murray
+Dry,2017-05-01,2017-09-01,5,Murray
+Wet,2017-10-01,2017-10-01,1,Murray
+Dry,2017-11-01,2017-11-01,1,Murray
+Wet,2017-12-01,2017-12-01,1,Murray
+Dry,2018-01-01,2018-09-01,9,Murray
+Wet,2018-10-01,2018-10-01,1,Murray
+Dry,2018-11-01,2019-02-01,4,Murray
+Wet,2019-03-01,2019-03-01,1,Murray
+Dry,2019-04-01,2019-04-01,1,Murray
+Wet,2019-05-01,2019-05-01,1,Murray
+Dry,2019-06-01,2020-01-01,8,Murray
+Wet,2020-02-01,2020-04-01,3,Murray
+Dry,2020-05-01,2020-07-01,3,Murray
+Wet,2020-08-01,2020-10-01,3,Murray
+Dry,2020-11-01,2020-11-01,1,Murray
+Wet,2020-12-01,2021-03-01,4,Murray
+Dry,2021-04-01,2021-05-01,2,Murray
+Wet,2021-06-01,2021-07-01,2,Murray
+Dry,2021-08-01,2021-08-01,1,Murray
+Wet,2021-09-01,2021-09-01,1,Murray
+Dry,2021-10-01,2021-10-01,1,Murray
+Wet,2021-11-01,2021-11-01,1,Murray
+Dry,2021-12-01,2021-12-01,1,Murray
+Wet,2022-01-01,2022-01-01,1,Murray
+Dry,2022-02-01,2022-02-01,1,Murray
+Wet,2022-03-01,2022-05-01,3,Murray
+Dry,2022-06-01,2022-06-01,1,Murray
+Wet,2022-07-01,2022-11-01,5,Murray
+Dry,2022-12-01,2022-12-01,1,Murray
+Wet,2023-01-01,2023-01-01,1,Murray
+Dry,2023-02-01,2023-02-01,1,Murray
+Wet,2023-03-01,2023-04-01,2,Murray
+Dry,2023-05-01,2023-10-01,6,Murray
+Wet,2023-11-01,2024-01-01,3,Murray
+Dry,2024-02-01,2024-03-01,2,Murray
+Wet,2024-04-01,2024-05-01,2,Murray
+Dry,2024-06-01,2024-06-01,1,Murray
+Wet,2024-07-01,2024-07-01,1,Murray
+Dry,2024-08-01,2024-10-01,3,Murray
+Wet,2024-11-01,2024-11-01,1,Murray
+Dry,2024-12-01,2025-02-01,3,Murray
+Wet,2025-03-01,2025-04-01,2,Murray
+Wet,1998-01-01,1998-02-01,2,Nile
+Dry,1998-03-01,1998-04-01,2,Nile
+Wet,1998-05-01,1998-05-01,1,Nile
+Dry,1998-06-01,1998-06-01,1,Nile
+Wet,1998-07-01,1998-10-01,4,Nile
+Dry,1998-11-01,1998-12-01,2,Nile
+Wet,1999-01-01,1999-01-01,1,Nile
+Dry,1999-02-01,1999-02-01,1,Nile
+Wet,1999-03-01,1999-03-01,1,Nile
+Dry,1999-04-01,1999-04-01,1,Nile
+Wet,1999-05-01,1999-05-01,1,Nile
+Dry,1999-06-01,1999-06-01,1,Nile
+Wet,1999-07-01,1999-10-01,4,Nile
+Dry,1999-11-01,2000-04-01,6,Nile
+Wet,2000-05-01,2000-05-01,1,Nile
+Dry,2000-06-01,2000-06-01,1,Nile
+Wet,2000-07-01,2000-07-01,1,Nile
+Dry,2000-08-01,2000-09-01,2,Nile
+Wet,2000-10-01,2000-10-01,1,Nile
+Dry,2000-11-01,2000-11-01,1,Nile
+Wet,2000-12-01,2001-01-01,2,Nile
+Dry,2001-02-01,2001-02-01,1,Nile
+Wet,2001-03-01,2001-03-01,1,Nile
+Dry,2001-04-01,2001-05-01,2,Nile
+Wet,2001-06-01,2001-08-01,3,Nile
+Dry,2001-09-01,2001-09-01,1,Nile
+Wet,2001-10-01,2001-10-01,1,Nile
+Dry,2001-11-01,2001-12-01,2,Nile
+Wet,2002-01-01,2002-01-01,1,Nile
+Dry,2002-02-01,2002-02-01,1,Nile
+Wet,2002-03-01,2002-03-01,1,Nile
+Dry,2002-04-01,2002-10-01,7,Nile
+Wet,2002-11-01,2002-12-01,2,Nile
+Dry,2003-01-01,2003-05-01,5,Nile
+Wet,2003-06-01,2003-08-01,3,Nile
+Dry,2003-09-01,2003-12-01,4,Nile
+Wet,2004-01-01,2004-01-01,1,Nile
+Dry,2004-02-01,2004-03-01,2,Nile
+Wet,2004-04-01,2004-04-01,1,Nile
+Dry,2004-05-01,2004-10-01,6,Nile
+Wet,2004-11-01,2004-12-01,2,Nile
+Dry,2005-01-01,2005-02-01,2,Nile
+Wet,2005-03-01,2005-03-01,1,Nile
+Dry,2005-04-01,2005-04-01,1,Nile
+Wet,2005-05-01,2005-05-01,1,Nile
+Dry,2005-06-01,2006-01-01,8,Nile
+Wet,2006-02-01,2006-03-01,2,Nile
+Dry,2006-04-01,2006-04-01,1,Nile
+Wet,2006-05-01,2006-05-01,1,Nile
+Dry,2006-06-01,2006-06-01,1,Nile
+Wet,2006-07-01,2006-07-01,1,Nile
+Dry,2006-08-01,2006-08-01,1,Nile
+Wet,2006-09-01,2007-02-01,6,Nile
+Dry,2007-03-01,2007-05-01,3,Nile
+Wet,2007-06-01,2007-09-01,4,Nile
+Dry,2007-10-01,2007-12-01,3,Nile
+Wet,2008-01-01,2008-04-01,4,Nile
+Dry,2008-05-01,2008-05-01,1,Nile
+Wet,2008-06-01,2008-06-01,1,Nile
+Dry,2008-07-01,2008-09-01,3,Nile
+Wet,2008-10-01,2008-10-01,1,Nile
+Dry,2008-11-01,2008-12-01,2,Nile
+Wet,2009-01-01,2009-02-01,2,Nile
+Dry,2009-03-01,2009-03-01,1,Nile
+Wet,2009-04-01,2009-04-01,1,Nile
+Dry,2009-05-01,2009-11-01,7,Nile
+Wet,2009-12-01,2009-12-01,1,Nile
+Dry,2010-01-01,2010-01-01,1,Nile
+Wet,2010-02-01,2010-03-01,2,Nile
+Dry,2010-04-01,2010-06-01,3,Nile
+Wet,2010-07-01,2010-07-01,1,Nile
+Dry,2010-08-01,2010-09-01,2,Nile
+Wet,2010-10-01,2010-10-01,1,Nile
+Dry,2010-11-01,2011-02-01,4,Nile
+Wet,2011-03-01,2011-03-01,1,Nile
+Dry,2011-04-01,2011-04-01,1,Nile
+Wet,2011-05-01,2011-05-01,1,Nile
+Dry,2011-06-01,2011-08-01,3,Nile
+Wet,2011-09-01,2011-09-01,1,Nile
+Dry,2011-10-01,2011-10-01,1,Nile
+Wet,2011-11-01,2011-11-01,1,Nile
+Dry,2011-12-01,2012-03-01,4,Nile
+Wet,2012-04-01,2012-05-01,2,Nile
+Dry,2012-06-01,2012-06-01,1,Nile
+Wet,2012-07-01,2012-08-01,2,Nile
+Dry,2012-09-01,2012-10-01,2,Nile
+Wet,2012-11-01,2012-12-01,2,Nile
+Dry,2013-01-01,2013-02-01,2,Nile
+Wet,2013-03-01,2013-03-01,1,Nile
+Dry,2013-04-01,2013-07-01,4,Nile
+Wet,2013-08-01,2013-09-01,2,Nile
+Dry,2013-10-01,2013-11-01,2,Nile
+Wet,2013-12-01,2013-12-01,1,Nile
+Dry,2014-01-01,2014-02-01,2,Nile
+Wet,2014-03-01,2014-03-01,1,Nile
+Dry,2014-04-01,2014-04-01,1,Nile
+Wet,2014-05-01,2014-10-01,6,Nile
+Dry,2014-11-01,2015-03-01,5,Nile
+Wet,2015-04-01,2015-05-01,2,Nile
+Dry,2015-06-01,2015-09-01,4,Nile
+Wet,2015-10-01,2016-01-01,4,Nile
+Dry,2016-02-01,2016-03-01,2,Nile
+Wet,2016-04-01,2016-05-01,2,Nile
+Dry,2016-06-01,2016-06-01,1,Nile
+Wet,2016-07-01,2016-09-01,3,Nile
+Dry,2016-10-01,2017-01-01,4,Nile
+Wet,2017-02-01,2017-03-01,2,Nile
+Dry,2017-04-01,2017-04-01,1,Nile
+Wet,2017-05-01,2017-05-01,1,Nile
+Dry,2017-06-01,2017-07-01,2,Nile
+Wet,2017-08-01,2017-09-01,2,Nile
+Dry,2017-10-01,2017-10-01,1,Nile
+Wet,2017-11-01,2017-11-01,1,Nile
+Dry,2017-12-01,2018-01-01,2,Nile
+Wet,2018-02-01,2018-08-01,7,Nile
+Dry,2018-09-01,2018-11-01,3,Nile
+Wet,2018-12-01,2018-12-01,1,Nile
+Dry,2019-01-01,2019-01-01,1,Nile
+Wet,2019-02-01,2019-02-01,1,Nile
+Dry,2019-03-01,2019-04-01,2,Nile
+Wet,2019-05-01,2019-06-01,2,Nile
+Dry,2019-07-01,2019-07-01,1,Nile
+Wet,2019-08-01,2020-06-01,11,Nile
+Dry,2020-07-01,2020-07-01,1,Nile
+Wet,2020-08-01,2020-09-01,2,Nile
+Dry,2020-10-01,2020-10-01,1,Nile
+Wet,2020-11-01,2020-11-01,1,Nile
+Dry,2020-12-01,2021-03-01,4,Nile
+Wet,2021-04-01,2021-05-01,2,Nile
+Dry,2021-06-01,2021-08-01,3,Nile
+Wet,2021-09-01,2021-09-01,1,Nile
+Dry,2021-10-01,2021-12-01,3,Nile
+Wet,2022-01-01,2022-02-01,2,Nile
+Dry,2022-03-01,2022-06-01,4,Nile
+Wet,2022-07-01,2022-09-01,3,Nile
+Dry,2022-10-01,2022-11-01,2,Nile
+Wet,2022-12-01,2022-12-01,1,Nile
+Dry,2023-01-01,2023-02-01,2,Nile
+Wet,2023-03-01,2023-04-01,2,Nile
+Dry,2023-05-01,2023-05-01,1,Nile
+Wet,2023-06-01,2023-06-01,1,Nile
+Dry,2023-07-01,2023-09-01,3,Nile
+Wet,2023-10-01,2024-02-01,5,Nile
+Dry,2024-03-01,2024-03-01,1,Nile
+Wet,2024-04-01,2024-04-01,1,Nile
+Dry,2024-05-01,2024-10-01,6,Nile
+Wet,2024-11-01,2024-11-01,1,Nile
+Dry,2024-12-01,2025-02-01,3,Nile
+Wet,2025-03-01,2025-03-01,1,Nile
+Dry,2025-04-01,2025-04-01,1,Nile
+Wet,1998-01-01,1998-03-01,3,Yangtze Basin
+Dry,1998-04-01,1998-05-01,2,Yangtze Basin
+Wet,1998-06-01,1998-08-01,3,Yangtze Basin
+Dry,1998-09-01,1999-03-01,7,Yangtze Basin
+Wet,1999-04-01,1999-08-01,5,Yangtze Basin
+Dry,1999-09-01,1999-09-01,1,Yangtze Basin
+Wet,1999-10-01,1999-10-01,1,Yangtze Basin
+Dry,1999-11-01,1999-12-01,2,Yangtze Basin
+Wet,2000-01-01,2000-01-01,1,Yangtze Basin
+Dry,2000-02-01,2000-05-01,4,Yangtze Basin
+Wet,2000-06-01,2000-06-01,1,Yangtze Basin
+Dry,2000-07-01,2000-07-01,1,Yangtze Basin
+Wet,2000-08-01,2000-10-01,3,Yangtze Basin
+Dry,2000-11-01,2000-12-01,2,Yangtze Basin
+Wet,2001-01-01,2001-01-01,1,Yangtze Basin
+Dry,2001-02-01,2001-03-01,2,Yangtze Basin
+Wet,2001-04-01,2001-04-01,1,Yangtze Basin
+Dry,2001-05-01,2001-07-01,3,Yangtze Basin
+Wet,2001-08-01,2001-08-01,1,Yangtze Basin
+Dry,2001-09-01,2001-09-01,1,Yangtze Basin
+Wet,2001-10-01,2001-10-01,1,Yangtze Basin
+Dry,2001-11-01,2001-11-01,1,Yangtze Basin
+Wet,2001-12-01,2001-12-01,1,Yangtze Basin
+Dry,2002-01-01,2002-03-01,3,Yangtze Basin
+Wet,2002-04-01,2002-06-01,3,Yangtze Basin
+Dry,2002-07-01,2002-07-01,1,Yangtze Basin
+Wet,2002-08-01,2002-08-01,1,Yangtze Basin
+Dry,2002-09-01,2002-09-01,1,Yangtze Basin
+Wet,2002-10-01,2002-10-01,1,Yangtze Basin
+Dry,2002-11-01,2002-11-01,1,Yangtze Basin
+Wet,2002-12-01,2002-12-01,1,Yangtze Basin
+Dry,2003-01-01,2003-01-01,1,Yangtze Basin
+Wet,2003-02-01,2003-02-01,1,Yangtze Basin
+Dry,2003-03-01,2003-04-01,2,Yangtze Basin
+Wet,2003-05-01,2003-05-01,1,Yangtze Basin
+Dry,2003-06-01,2004-01-01,8,Yangtze Basin
+Wet,2004-02-01,2004-02-01,1,Yangtze Basin
+Dry,2004-03-01,2004-04-01,2,Yangtze Basin
+Wet,2004-05-01,2004-05-01,1,Yangtze Basin
+Dry,2004-06-01,2004-08-01,3,Yangtze Basin
+Wet,2004-09-01,2004-09-01,1,Yangtze Basin
+Dry,2004-10-01,2004-10-01,1,Yangtze Basin
+Wet,2004-11-01,2004-12-01,2,Yangtze Basin
+Dry,2005-01-01,2005-01-01,1,Yangtze Basin
+Wet,2005-02-01,2005-02-01,1,Yangtze Basin
+Dry,2005-03-01,2005-04-01,2,Yangtze Basin
+Wet,2005-05-01,2005-05-01,1,Yangtze Basin
+Dry,2005-06-01,2005-07-01,2,Yangtze Basin
+Wet,2005-08-01,2005-08-01,1,Yangtze Basin
+Dry,2005-09-01,2005-10-01,2,Yangtze Basin
+Wet,2005-11-01,2005-11-01,1,Yangtze Basin
+Dry,2005-12-01,2006-01-01,2,Yangtze Basin
+Wet,2006-02-01,2006-02-01,1,Yangtze Basin
+Dry,2006-03-01,2006-10-01,8,Yangtze Basin
+Wet,2006-11-01,2006-11-01,1,Yangtze Basin
+Dry,2006-12-01,2007-01-01,2,Yangtze Basin
+Wet,2007-02-01,2007-02-01,1,Yangtze Basin
+Dry,2007-03-01,2007-06-01,4,Yangtze Basin
+Wet,2007-07-01,2007-08-01,2,Yangtze Basin
+Dry,2007-09-01,2007-11-01,3,Yangtze Basin
+Wet,2007-12-01,2008-01-01,2,Yangtze Basin
+Dry,2008-02-01,2008-07-01,6,Yangtze Basin
+Wet,2008-08-01,2008-08-01,1,Yangtze Basin
+Dry,2008-09-01,2008-09-01,1,Yangtze Basin
+Wet,2008-10-01,2008-11-01,2,Yangtze Basin
+Dry,2008-12-01,2009-01-01,2,Yangtze Basin
+Wet,2009-02-01,2009-02-01,1,Yangtze Basin
+Dry,2009-03-01,2009-03-01,1,Yangtze Basin
+Wet,2009-04-01,2009-04-01,1,Yangtze Basin
+Dry,2009-05-01,2009-10-01,6,Yangtze Basin
+Wet,2009-11-01,2009-12-01,2,Yangtze Basin
+Dry,2010-01-01,2010-02-01,2,Yangtze Basin
+Wet,2010-03-01,2010-05-01,3,Yangtze Basin
+Dry,2010-06-01,2010-06-01,1,Yangtze Basin
+Wet,2010-07-01,2010-09-01,3,Yangtze Basin
+Dry,2010-10-01,2010-11-01,2,Yangtze Basin
+Wet,2010-12-01,2010-12-01,1,Yangtze Basin
+Dry,2011-01-01,2011-05-01,5,Yangtze Basin
+Wet,2011-06-01,2011-06-01,1,Yangtze Basin
+Dry,2011-07-01,2011-08-01,2,Yangtze Basin
+Wet,2011-09-01,2011-09-01,1,Yangtze Basin
+Dry,2011-10-01,2011-10-01,1,Yangtze Basin
+Wet,2011-11-01,2011-11-01,1,Yangtze Basin
+Dry,2011-12-01,2011-12-01,1,Yangtze Basin
+Wet,2012-01-01,2012-01-01,1,Yangtze Basin
+Dry,2012-02-01,2012-02-01,1,Yangtze Basin
+Wet,2012-03-01,2012-03-01,1,Yangtze Basin
+Dry,2012-04-01,2012-04-01,1,Yangtze Basin
+Wet,2012-05-01,2012-05-01,1,Yangtze Basin
+Dry,2012-06-01,2012-06-01,1,Yangtze Basin
+Wet,2012-07-01,2012-07-01,1,Yangtze Basin
+Dry,2012-08-01,2012-08-01,1,Yangtze Basin
+Wet,2012-09-01,2012-09-01,1,Yangtze Basin
+Dry,2012-10-01,2012-10-01,1,Yangtze Basin
+Wet,2012-11-01,2012-12-01,2,Yangtze Basin
+Dry,2013-01-01,2013-04-01,4,Yangtze Basin
+Wet,2013-05-01,2013-05-01,1,Yangtze Basin
+Dry,2013-06-01,2013-08-01,3,Yangtze Basin
+Wet,2013-09-01,2013-09-01,1,Yangtze Basin
+Dry,2013-10-01,2013-10-01,1,Yangtze Basin
+Wet,2013-11-01,2013-12-01,2,Yangtze Basin
+Dry,2014-01-01,2014-01-01,1,Yangtze Basin
+Wet,2014-02-01,2014-03-01,2,Yangtze Basin
+Dry,2014-04-01,2014-06-01,3,Yangtze Basin
+Wet,2014-07-01,2014-09-01,3,Yangtze Basin
+Dry,2014-10-01,2014-10-01,1,Yangtze Basin
+Wet,2014-11-01,2014-11-01,1,Yangtze Basin
+Dry,2014-12-01,2015-01-01,2,Yangtze Basin
+Wet,2015-02-01,2015-02-01,1,Yangtze Basin
+Dry,2015-03-01,2015-04-01,2,Yangtze Basin
+Wet,2015-05-01,2015-06-01,2,Yangtze Basin
+Dry,2015-07-01,2015-07-01,1,Yangtze Basin
+Wet,2015-08-01,2016-01-01,6,Yangtze Basin
+Dry,2016-02-01,2016-02-01,1,Yangtze Basin
+Wet,2016-03-01,2016-07-01,5,Yangtze Basin
+Dry,2016-08-01,2016-08-01,1,Yangtze Basin
+Wet,2016-09-01,2016-12-01,4,Yangtze Basin
+Dry,2017-01-01,2017-02-01,2,Yangtze Basin
+Wet,2017-03-01,2017-03-01,1,Yangtze Basin
+Dry,2017-04-01,2017-05-01,2,Yangtze Basin
+Wet,2017-06-01,2017-06-01,1,Yangtze Basin
+Dry,2017-07-01,2017-07-01,1,Yangtze Basin
+Wet,2017-08-01,2017-10-01,3,Yangtze Basin
+Dry,2017-11-01,2017-12-01,2,Yangtze Basin
+Wet,2018-01-01,2018-01-01,1,Yangtze Basin
+Dry,2018-02-01,2018-02-01,1,Yangtze Basin
+Wet,2018-03-01,2018-03-01,1,Yangtze Basin
+Dry,2018-04-01,2018-04-01,1,Yangtze Basin
+Wet,2018-05-01,2018-05-01,1,Yangtze Basin
+Dry,2018-06-01,2018-06-01,1,Yangtze Basin
+Wet,2018-07-01,2018-07-01,1,Yangtze Basin
+Dry,2018-08-01,2018-08-01,1,Yangtze Basin
+Wet,2018-09-01,2018-09-01,1,Yangtze Basin
+Dry,2018-10-01,2018-10-01,1,Yangtze Basin
+Wet,2018-11-01,2019-03-01,5,Yangtze Basin
+Dry,2019-04-01,2019-05-01,2,Yangtze Basin
+Wet,2019-06-01,2019-07-01,2,Yangtze Basin
+Dry,2019-08-01,2019-09-01,2,Yangtze Basin
+Wet,2019-10-01,2019-10-01,1,Yangtze Basin
+Dry,2019-11-01,2019-11-01,1,Yangtze Basin
+Wet,2019-12-01,2020-03-01,4,Yangtze Basin
+Dry,2020-04-01,2020-04-01,1,Yangtze Basin
+Wet,2020-05-01,2020-10-01,6,Yangtze Basin
+Dry,2020-11-01,2021-01-01,3,Yangtze Basin
+Wet,2021-02-01,2021-10-01,9,Yangtze Basin
+Dry,2021-11-01,2021-12-01,2,Yangtze Basin
+Wet,2022-01-01,2022-06-01,6,Yangtze Basin
+Dry,2022-07-01,2022-10-01,4,Yangtze Basin
+Wet,2022-11-01,2022-11-01,1,Yangtze Basin
+Dry,2022-12-01,2023-01-01,2,Yangtze Basin
+Wet,2023-02-01,2023-04-01,3,Yangtze Basin
+Dry,2023-05-01,2023-07-01,3,Yangtze Basin
+Wet,2023-08-01,2023-11-01,4,Yangtze Basin
+Dry,2023-12-01,2023-12-01,1,Yangtze Basin
+Wet,2024-01-01,2024-02-01,2,Yangtze Basin
+Dry,2024-03-01,2024-03-01,1,Yangtze Basin
+Wet,2024-04-01,2024-04-01,1,Yangtze Basin
+Dry,2024-05-01,2024-05-01,1,Yangtze Basin
+Wet,2024-06-01,2024-07-01,2,Yangtze Basin
+Dry,2024-08-01,2024-09-01,2,Yangtze Basin
+Wet,2024-10-01,2024-10-01,1,Yangtze Basin
+Dry,2024-11-01,2025-04-01,6,Yangtze Basin

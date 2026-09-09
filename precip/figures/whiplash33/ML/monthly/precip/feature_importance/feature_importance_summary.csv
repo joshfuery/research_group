@@ -1,0 +1,529 @@
+basin,model,feature,value,abs_normalized
+Amazon Basin,Logistic Regression,anomaly_lag1,0.3860255588668176,0.5928655136271254
+Amazon Basin,Logistic Regression,anomaly_lag2,0.4112612590418337,0.6316229896603712
+Amazon Basin,Logistic Regression,anomaly_lag3,0.41341142231452777,0.6349252519685719
+Amazon Basin,Logistic Regression,raw_lag1,0.2112450153128121,0.32443417703284566
+Amazon Basin,Logistic Regression,bar_state_lag1,-0.6511182553107704,1.0
+Amazon Basin,Logistic Regression,rolling_autocorr_3,-0.022739331677891213,0.03492350505061177
+Amazon Basin,Logistic Regression,rolling_variance_3,0.09421480979848505,0.1446969256813688
+Amazon Basin,Logistic Regression,rolling_skew_3,-0.03481501926573321,0.05346957942242987
+Amazon Basin,Logistic Regression,rolling_autocorr_6,0.415898001841877,0.6387441888622432
+Amazon Basin,Logistic Regression,rolling_variance_6,-0.42889510008010806,0.658705383518086
+Amazon Basin,Logistic Regression,rolling_skew_6,-0.08347163187229784,0.12819734539996563
+Amazon Basin,Logistic Regression,rolling_autocorr_12,-0.3803149437947446,0.5840950406362438
+Amazon Basin,Logistic Regression,rolling_variance_12,0.09761821210326616,0.14992393671511212
+Amazon Basin,Logistic Regression,rolling_skew_12,-0.19842205956914236,0.30474043378562327
+Amazon Basin,Logistic Regression,month_sin,0.0757899862925217,0.11639972566327159
+Amazon Basin,Logistic Regression,month_cos,0.4596150290578792,0.70588564413466
+Amazon Basin,Random Forest,anomaly_lag1,0.11997239218055875,1.0
+Amazon Basin,Random Forest,anomaly_lag2,0.10745757421840395,0.8956858512638477
+Amazon Basin,Random Forest,anomaly_lag3,0.10507526436386629,0.87582870070414
+Amazon Basin,Random Forest,raw_lag1,0.07222798115498218,0.6020383510089462
+Amazon Basin,Random Forest,bar_state_lag1,0.06246688230506613,0.5206771422132962
+Amazon Basin,Random Forest,rolling_autocorr_3,0.0026040427815113634,0.02170535015749517
+Amazon Basin,Random Forest,rolling_variance_3,0.045355011630561125,0.37804540533210107
+Amazon Basin,Random Forest,rolling_skew_3,0.04424713428471954,0.3688109695948006
+Amazon Basin,Random Forest,rolling_autocorr_6,0.07216141488852007,0.6014835044709033
+Amazon Basin,Random Forest,rolling_variance_6,0.044766897064105235,0.37314332281322643
+Amazon Basin,Random Forest,rolling_skew_6,0.03561088580154707,0.2968256709256293
+Amazon Basin,Random Forest,rolling_autocorr_12,0.10423088161749602,0.8687905585864145
+Amazon Basin,Random Forest,rolling_variance_12,0.07518747389292817,0.6267064657656475
+Amazon Basin,Random Forest,rolling_skew_12,0.038098796737606196,0.31756303300402156
+Amazon Basin,Random Forest,month_sin,0.024760339979386675,0.20638364818234434
+Amazon Basin,Random Forest,month_cos,0.0457770270987412,0.3815630101785973
+Amazon Basin,Gradient Boosting,anomaly_lag1,0.27977707015583136,1.0
+Amazon Basin,Gradient Boosting,anomaly_lag2,0.13332075910561064,0.47652496693654384
+Amazon Basin,Gradient Boosting,anomaly_lag3,0.10005685696493394,0.35763065539718414
+Amazon Basin,Gradient Boosting,raw_lag1,0.07574369609465961,0.270728748615716
+Amazon Basin,Gradient Boosting,bar_state_lag1,0.0013117858021139735,0.0046886823190454095
+Amazon Basin,Gradient Boosting,rolling_autocorr_3,0.0,0.0
+Amazon Basin,Gradient Boosting,rolling_variance_3,0.02575925775464563,0.09207065375406975
+Amazon Basin,Gradient Boosting,rolling_skew_3,0.0660304707308585,0.2360110165357032
+Amazon Basin,Gradient Boosting,rolling_autocorr_6,0.09435400088052485,0.33724708328660097
+Amazon Basin,Gradient Boosting,rolling_variance_6,0.02243968746747641,0.08020559888977986
+Amazon Basin,Gradient Boosting,rolling_skew_6,0.012521954087228412,0.044756899056287505
+Amazon Basin,Gradient Boosting,rolling_autocorr_12,0.09917213620619486,0.35446842069994355
+Amazon Basin,Gradient Boosting,rolling_variance_12,0.03704249331467163,0.13240003297639635
+Amazon Basin,Gradient Boosting,rolling_skew_12,0.030593446826849367,0.10934937166154933
+Amazon Basin,Gradient Boosting,month_sin,0.0,0.0
+Amazon Basin,Gradient Boosting,month_cos,0.021876384608400735,0.078192199940531
+California,Logistic Regression,anomaly_lag1,0.20246168617882884,0.20268559483540305
+California,Logistic Regression,anomaly_lag2,0.3905918338482218,0.3910238014685476
+California,Logistic Regression,anomaly_lag3,0.18774757767790573,0.18795521354564118
+California,Logistic Regression,raw_lag1,0.175717877638595,0.17591220948804615
+California,Logistic Regression,bar_state_lag1,0.018760290832602552,0.01878103841994389
+California,Logistic Regression,rolling_autocorr_3,0.4779519342379066,0.47848051610207093
+California,Logistic Regression,rolling_variance_3,0.28048040883076225,0.2807906008118821
+California,Logistic Regression,rolling_skew_3,-0.11099166806301519,0.1111144171902993
+California,Logistic Regression,rolling_autocorr_6,-0.5198063391532518,0.5203812091016121
+California,Logistic Regression,rolling_variance_6,-0.407924270763607,0.4083754068633529
+California,Logistic Regression,rolling_skew_6,-0.0028687246062680653,0.0028718972177620913
+California,Logistic Regression,rolling_autocorr_12,0.028259522317088837,0.028290775399076207
+California,Logistic Regression,rolling_variance_12,-0.3346093743410578,0.33497942922353896
+California,Logistic Regression,rolling_skew_12,-0.19632406492471421,0.19654118579563126
+California,Logistic Regression,month_sin,0.9988952907247501,1.0
+California,Logistic Regression,month_cos,0.845297394385979,0.8462322349849822
+California,Random Forest,anomaly_lag1,0.09874575235927852,0.38950769964425985
+California,Random Forest,anomaly_lag2,0.03649543966579525,0.14395813908033955
+California,Random Forest,anomaly_lag3,0.024879808169177713,0.09813968313601375
+California,Random Forest,raw_lag1,0.25351425003783934,1.0
+California,Random Forest,bar_state_lag1,0.05293088472751367,0.2087885975625167
+California,Random Forest,rolling_autocorr_3,0.005378722011945466,0.02121664565657608
+California,Random Forest,rolling_variance_3,0.11623371651810996,0.4584898738463854
+California,Random Forest,rolling_skew_3,0.038731480649368495,0.15277831776157538
+California,Random Forest,rolling_autocorr_6,0.03385377436129412,0.13353795439996424
+California,Random Forest,rolling_variance_6,0.043675702894727046,0.1722810567382624
+California,Random Forest,rolling_skew_6,0.026529398086722698,0.10464657542036765
+California,Random Forest,rolling_autocorr_12,0.034761138987013815,0.13711710084078269
+California,Random Forest,rolling_variance_12,0.03995518492031428,0.15760528220544054
+California,Random Forest,rolling_skew_12,0.04310256448203781,0.17002028278727666
+California,Random Forest,month_sin,0.08669738179946863,0.34198228220515514
+California,Random Forest,month_cos,0.0645148003293932,0.25448194852858874
+California,Gradient Boosting,anomaly_lag1,0.08625345558835172,0.2650933213096545
+California,Gradient Boosting,anomaly_lag2,0.07158235018872275,0.2200028141393322
+California,Gradient Boosting,anomaly_lag3,0.035512814484510456,0.10914588727531335
+California,Gradient Boosting,raw_lag1,0.325370157053483,1.0
+California,Gradient Boosting,bar_state_lag1,0.01165230902579802,0.03581247011502245
+California,Gradient Boosting,rolling_autocorr_3,0.007813969116539188,0.024015629421277135
+California,Gradient Boosting,rolling_variance_3,0.04679087701848623,0.14380813975755907
+California,Gradient Boosting,rolling_skew_3,0.07004274561753338,0.21527095862703857
+California,Gradient Boosting,rolling_autocorr_6,0.035461002403412344,0.1089866468533665
+California,Gradient Boosting,rolling_variance_6,0.0750303251053238,0.23059989823526017
+California,Gradient Boosting,rolling_skew_6,0.023437793926576838,0.0720342459764195
+California,Gradient Boosting,rolling_autocorr_12,0.0449317889480207,0.1380943764324243
+California,Gradient Boosting,rolling_variance_12,0.060238332396503676,0.18513785327460733
+California,Gradient Boosting,rolling_skew_12,0.04855531226904252,0.14923099496510125
+California,Gradient Boosting,month_sin,0.0,0.0
+California,Gradient Boosting,month_cos,0.05732676685769534,0.17618938189304253
+Colorado,Logistic Regression,anomaly_lag1,-0.4748142629234275,1.0
+Colorado,Logistic Regression,anomaly_lag2,-0.37190437004298393,0.7832628441975854
+Colorado,Logistic Regression,anomaly_lag3,0.15794925489825654,0.33265482364780763
+Colorado,Logistic Regression,raw_lag1,0.24440297719534723,0.5147338575942519
+Colorado,Logistic Regression,bar_state_lag1,0.19925881315741345,0.4196563345224269
+Colorado,Logistic Regression,rolling_autocorr_3,-0.027837745527199868,0.0586287053716607
+Colorado,Logistic Regression,rolling_variance_3,-0.26387207440300137,0.555737464115638
+Colorado,Logistic Regression,rolling_skew_3,-0.25076280889809455,0.528128214502551
+Colorado,Logistic Regression,rolling_autocorr_6,-0.14674293349885792,0.3090533392896896
+Colorado,Logistic Regression,rolling_variance_6,0.2709758686613644,0.5706986706611723
+Colorado,Logistic Regression,rolling_skew_6,-0.2097003226622293,0.44164705872798793
+Colorado,Logistic Regression,rolling_autocorr_12,0.33523605531556727,0.706036194556418
+Colorado,Logistic Regression,rolling_variance_12,-0.22645862175032128,0.4769414894068628
+Colorado,Logistic Regression,rolling_skew_12,-0.22052209676555568,0.4644386531436586
+Colorado,Logistic Regression,month_sin,-0.25245056728201565,0.5316827799731196
+Colorado,Logistic Regression,month_cos,0.06663512024675074,0.1403393399273199
+Colorado,Random Forest,anomaly_lag1,0.13335749778458925,1.0
+Colorado,Random Forest,anomaly_lag2,0.09237771222197794,0.6927072999764478
+Colorado,Random Forest,anomaly_lag3,0.05880498777320844,0.4409574920803885
+Colorado,Random Forest,raw_lag1,0.10402489825098692,0.7800453666206086
+Colorado,Random Forest,bar_state_lag1,0.10131307011463533,0.7597103409834902
+Colorado,Random Forest,rolling_autocorr_3,0.002646689127120964,0.01984657159206848
+Colorado,Random Forest,rolling_variance_3,0.07807466149285361,0.5854538574124019
+Colorado,Random Forest,rolling_skew_3,0.057204664087586135,0.4289572392846493
+Colorado,Random Forest,rolling_autocorr_6,0.041625685366648554,0.31213607077335853
+Colorado,Random Forest,rolling_variance_6,0.037878106251593144,0.2840343203857738
+Colorado,Random Forest,rolling_skew_6,0.04781954433492967,0.3585815955558195
+Colorado,Random Forest,rolling_autocorr_12,0.051318243063292676,0.38481708127267367
+Colorado,Random Forest,rolling_variance_12,0.05019474016765919,0.37639233640044856
+Colorado,Random Forest,rolling_skew_12,0.09067455130268588,0.6799359076844063
+Colorado,Random Forest,month_sin,0.036085821603614565,0.2705946212480948
+Colorado,Random Forest,month_cos,0.016599127056617875,0.12447089464313618
+Colorado,Gradient Boosting,anomaly_lag1,0.20532191948267478,1.0
+Colorado,Gradient Boosting,anomaly_lag2,0.12093169391805461,0.588985794710822
+Colorado,Gradient Boosting,anomaly_lag3,0.0849570044469017,0.4137746454979466
+Colorado,Gradient Boosting,raw_lag1,0.06588886081148465,0.32090514728041203
+Colorado,Gradient Boosting,bar_state_lag1,0.05641933538540019,0.2747847649561882
+Colorado,Gradient Boosting,rolling_autocorr_3,0.0,0.0
+Colorado,Gradient Boosting,rolling_variance_3,0.11118980525667313,0.5415388943217795
+Colorado,Gradient Boosting,rolling_skew_3,0.035660109050594385,0.17367901654359613
+Colorado,Gradient Boosting,rolling_autocorr_6,0.03785085418058367,0.18434882294083343
+Colorado,Gradient Boosting,rolling_variance_6,0.030604721540962613,0.14905725417955223
+Colorado,Gradient Boosting,rolling_skew_6,0.04246388168218614,0.2068161148560141
+Colorado,Gradient Boosting,rolling_autocorr_12,0.04101488658124264,0.19975892824586372
+Colorado,Gradient Boosting,rolling_variance_12,0.06160249175068091,0.30002881283154464
+Colorado,Gradient Boosting,rolling_skew_12,0.07976355844728963,0.3884804829813611
+Colorado,Gradient Boosting,month_sin,0.02092157270588303,0.10189644027581968
+Colorado,Gradient Boosting,month_cos,0.005409304759388053,0.026345481149880317
+Congo,Logistic Regression,anomaly_lag1,0.036008394338888895,0.09757429297013337
+Congo,Logistic Regression,anomaly_lag2,-0.1311017611097543,0.3552549865742869
+Congo,Logistic Regression,anomaly_lag3,-0.05826680098606469,0.15788934814309644
+Congo,Logistic Regression,raw_lag1,0.04758880999261003,0.12895450001512684
+Congo,Logistic Regression,bar_state_lag1,-0.04920820302030169,0.13334267484543652
+Congo,Logistic Regression,rolling_autocorr_3,-0.043525827474335976,0.11794477148239839
+Congo,Logistic Regression,rolling_variance_3,-0.015750711409055044,0.04268072925027242
+Congo,Logistic Regression,rolling_skew_3,-0.3456092272342365,0.9365198479543023
+Congo,Logistic Regression,rolling_autocorr_6,0.0669327537829554,0.18137204523620024
+Congo,Logistic Regression,rolling_variance_6,-0.11614738461120411,0.31473213793176014
+Congo,Logistic Regression,rolling_skew_6,0.36903566751860295,1.0
+Congo,Logistic Regression,rolling_autocorr_12,-0.033436244688826625,0.09060437142472445
+Congo,Logistic Regression,rolling_variance_12,0.034685973871937927,0.09399084404270874
+Congo,Logistic Regression,rolling_skew_12,-0.2743488253512575,0.743420892609053
+Congo,Logistic Regression,month_sin,-0.03782830564499971,0.10250582524815925
+Congo,Logistic Regression,month_cos,0.06990262275088437,0.1894196927384007
+Congo,Random Forest,anomaly_lag1,0.14847276329977604,1.0
+Congo,Random Forest,anomaly_lag2,0.05772189402233877,0.38877092834727245
+Congo,Random Forest,anomaly_lag3,0.08764323840126079,0.5902984254715019
+Congo,Random Forest,raw_lag1,0.07965628258020646,0.536504344701764
+Congo,Random Forest,bar_state_lag1,0.08487195927372769,0.571633189734374
+Congo,Random Forest,rolling_autocorr_3,0.0027028851120408036,0.018204585487396802
+Congo,Random Forest,rolling_variance_3,0.031155363001997647,0.20983891125601917
+Congo,Random Forest,rolling_skew_3,0.11076874532840504,0.7460543123640517
+Congo,Random Forest,rolling_autocorr_6,0.053025227551349606,0.3571377427945371
+Congo,Random Forest,rolling_variance_6,0.042819037290804364,0.2883965808890482
+Congo,Random Forest,rolling_skew_6,0.073863155624742,0.49748623237790446
+Congo,Random Forest,rolling_autocorr_12,0.04955812576486925,0.33378597301922786
+Congo,Random Forest,rolling_variance_12,0.06451886871133414,0.43455019814689105
+Congo,Random Forest,rolling_skew_12,0.0873441305887607,0.5882838619525609
+Congo,Random Forest,month_sin,0.012326828432281453,0.08302417331179318
+Congo,Random Forest,month_cos,0.013551495016105234,0.09127259919547598
+Congo,Gradient Boosting,anomaly_lag1,0.182422536151397,1.0
+Congo,Gradient Boosting,anomaly_lag2,0.04088172599465293,0.224104580810806
+Congo,Gradient Boosting,anomaly_lag3,0.11782406232296737,0.6458854525801694
+Congo,Gradient Boosting,raw_lag1,0.05400560559628737,0.29604678640947507
+Congo,Gradient Boosting,bar_state_lag1,0.0763916444395263,0.41876210062186053
+Congo,Gradient Boosting,rolling_autocorr_3,0.0,0.0
+Congo,Gradient Boosting,rolling_variance_3,0.033613949041099274,0.18426423483775173
+Congo,Gradient Boosting,rolling_skew_3,0.11813840092806974,0.6476085872966032
+Congo,Gradient Boosting,rolling_autocorr_6,0.06786995953068774,0.37204810854269
+Congo,Gradient Boosting,rolling_variance_6,0.010075110839880861,0.05522952948926922
+Congo,Gradient Boosting,rolling_skew_6,0.06972014439724489,0.3821904128083298
+Congo,Gradient Boosting,rolling_autocorr_12,0.045991994000663936,0.2521179398717165
+Congo,Gradient Boosting,rolling_variance_12,0.08597309684037475,0.4712855037221034
+Congo,Gradient Boosting,rolling_skew_12,0.09207132895969766,0.5047146635615535
+Congo,Gradient Boosting,month_sin,0.0,0.0
+Congo,Gradient Boosting,month_cos,0.005020440957450314,0.027520947046168268
+Danube,Logistic Regression,anomaly_lag1,0.334526838593436,0.8326949703154591
+Danube,Logistic Regression,anomaly_lag2,-0.2940510470618773,0.7319437475747695
+Danube,Logistic Regression,anomaly_lag3,-0.13530345593768706,0.336793626781436
+Danube,Logistic Regression,raw_lag1,-0.4017399534270076,1.0
+Danube,Logistic Regression,bar_state_lag1,0.01948387463699848,0.04849872279516386
+Danube,Logistic Regression,rolling_autocorr_3,0.20191737432959145,0.502607153227238
+Danube,Logistic Regression,rolling_variance_3,0.16556000172099714,0.41210738515973333
+Danube,Logistic Regression,rolling_skew_3,-0.13840208481672422,0.3445066482337575
+Danube,Logistic Regression,rolling_autocorr_6,0.330155918962094,0.8218149978505443
+Danube,Logistic Regression,rolling_variance_6,-0.35600969466251775,0.8861695024993361
+Danube,Logistic Regression,rolling_skew_6,-0.20401220363464131,0.5078215444949725
+Danube,Logistic Regression,rolling_autocorr_12,-0.1527726829138405,0.38027754424379867
+Danube,Logistic Regression,rolling_variance_12,0.14080347034940455,0.3504841107992691
+Danube,Logistic Regression,rolling_skew_12,-0.007301560253383952,0.018174842186092346
+Danube,Logistic Regression,month_sin,-0.13426187431822792,0.3342009505724256
+Danube,Logistic Regression,month_cos,0.19967076857366206,0.4970149642085334
+Danube,Random Forest,anomaly_lag1,0.1655106516423918,1.0
+Danube,Random Forest,anomaly_lag2,0.07938054100696927,0.479609863288326
+Danube,Random Forest,anomaly_lag3,0.06379367529169568,0.3854354668938804
+Danube,Random Forest,raw_lag1,0.07208178356347049,0.4355114480439178
+Danube,Random Forest,bar_state_lag1,0.1283605540208531,0.7755425572137405
+Danube,Random Forest,rolling_autocorr_3,0.012207407264012402,0.07375602200146104
+Danube,Random Forest,rolling_variance_3,0.051401327480955494,0.3105620512691536
+Danube,Random Forest,rolling_skew_3,0.08181152992573568,0.49429767277154213
+Danube,Random Forest,rolling_autocorr_6,0.0703471615896695,0.4250310230284398
+Danube,Random Forest,rolling_variance_6,0.04755748202409161,0.2873378936773568
+Danube,Random Forest,rolling_skew_6,0.04236762552658087,0.2559812622701883
+Danube,Random Forest,rolling_autocorr_12,0.05383820348226607,0.32528542995885734
+Danube,Random Forest,rolling_variance_12,0.033005098818885144,0.19941374462229255
+Danube,Random Forest,rolling_skew_12,0.0542819933038767,0.3279667668831388
+Danube,Random Forest,month_sin,0.023228355053428955,0.14034356594533243
+Danube,Random Forest,month_cos,0.02082661000511731,0.12583244521395534
+Danube,Gradient Boosting,anomaly_lag1,0.15585600854486428,1.0
+Danube,Gradient Boosting,anomaly_lag2,0.09191735099425488,0.5897581482576965
+Danube,Gradient Boosting,anomaly_lag3,0.062449103247867385,0.4006846051744675
+Danube,Gradient Boosting,raw_lag1,0.05526799029518049,0.3546093013107749
+Danube,Gradient Boosting,bar_state_lag1,0.1231651237977242,0.790249442082114
+Danube,Gradient Boosting,rolling_autocorr_3,0.00021487946790090407,0.001378705061852328
+Danube,Gradient Boosting,rolling_variance_3,0.04548609461331633,0.2918469107350637
+Danube,Gradient Boosting,rolling_skew_3,0.1303746132154416,0.8365068144158994
+Danube,Gradient Boosting,rolling_autocorr_6,0.06243614710386879,0.4006014762395002
+Danube,Gradient Boosting,rolling_variance_6,0.04960034551239383,0.3182446796596617
+Danube,Gradient Boosting,rolling_skew_6,0.05145783591867499,0.3301626700125743
+Danube,Gradient Boosting,rolling_autocorr_12,0.059709473494065225,0.38310665114253467
+Danube,Gradient Boosting,rolling_variance_12,0.03037601959954764,0.19489796949858165
+Danube,Gradient Boosting,rolling_skew_12,0.048510149137030605,0.3112497849132753
+Danube,Gradient Boosting,month_sin,0.020109758108569097,0.12902780134254727
+Danube,Gradient Boosting,month_cos,0.013069106949299745,0.08385372544387795
+Ganges / Bhramaputra Basin,Logistic Regression,anomaly_lag1,-0.13669460936090275,0.10837159073738592
+Ganges / Bhramaputra Basin,Logistic Regression,anomaly_lag2,-0.028099959354391253,0.02227766924481415
+Ganges / Bhramaputra Basin,Logistic Regression,anomaly_lag3,0.23004207763296206,0.18237753490188313
+Ganges / Bhramaputra Basin,Logistic Regression,raw_lag1,1.2613509539797314,1.0
+Ganges / Bhramaputra Basin,Logistic Regression,bar_state_lag1,0.008956716874143797,0.00710089198084336
+Ganges / Bhramaputra Basin,Logistic Regression,rolling_autocorr_3,0.3319090649475884,0.2631377602723261
+Ganges / Bhramaputra Basin,Logistic Regression,rolling_variance_3,-0.18527246752715215,0.14688415380556274
+Ganges / Bhramaputra Basin,Logistic Regression,rolling_skew_3,-0.226193008888319,0.17932599026040272
+Ganges / Bhramaputra Basin,Logistic Regression,rolling_autocorr_6,-0.3936246879436205,0.31206595333493964
+Ganges / Bhramaputra Basin,Logistic Regression,rolling_variance_6,-0.0439652732840773,0.03485570224952934
+Ganges / Bhramaputra Basin,Logistic Regression,rolling_skew_6,-0.015180934568679336,0.01203545652443632
+Ganges / Bhramaputra Basin,Logistic Regression,rolling_autocorr_12,0.013831392968872726,0.010965538913046228
+Ganges / Bhramaputra Basin,Logistic Regression,rolling_variance_12,0.005781622122371078,0.0045836744358334885
+Ganges / Bhramaputra Basin,Logistic Regression,rolling_skew_12,0.1310146639395297,0.10386852566778569
+Ganges / Bhramaputra Basin,Logistic Regression,month_sin,0.23329934384955014,0.18495989804697846
+Ganges / Bhramaputra Basin,Logistic Regression,month_cos,-0.18118247823961056,0.14364160717360663
+Ganges / Bhramaputra Basin,Random Forest,anomaly_lag1,0.11574044053140968,0.5310778897736566
+Ganges / Bhramaputra Basin,Random Forest,anomaly_lag2,0.02565519185837148,0.11771948587135962
+Ganges / Bhramaputra Basin,Random Forest,anomaly_lag3,0.0409913476114107,0.1880898179451682
+Ganges / Bhramaputra Basin,Random Forest,raw_lag1,0.2179349635149334,1.0
+Ganges / Bhramaputra Basin,Random Forest,bar_state_lag1,0.06290587362704352,0.28864516556900727
+Ganges / Bhramaputra Basin,Random Forest,rolling_autocorr_3,0.0038204333310980485,0.01753015335162714
+Ganges / Bhramaputra Basin,Random Forest,rolling_variance_3,0.05160827706167622,0.2368058627643742
+Ganges / Bhramaputra Basin,Random Forest,rolling_skew_3,0.03239367671481429,0.14863919121722108
+Ganges / Bhramaputra Basin,Random Forest,rolling_autocorr_6,0.05125269418355569,0.2351742618849854
+Ganges / Bhramaputra Basin,Random Forest,rolling_variance_6,0.03985839415951657,0.1828912328552797
+Ganges / Bhramaputra Basin,Random Forest,rolling_skew_6,0.04245732100527506,0.19481647332079316
+Ganges / Bhramaputra Basin,Random Forest,rolling_autocorr_12,0.030037040746263576,0.13782570846740416
+Ganges / Bhramaputra Basin,Random Forest,rolling_variance_12,0.055480640329583164,0.2545742979225153
+Ganges / Bhramaputra Basin,Random Forest,rolling_skew_12,0.03442359179253957,0.15795350703413308
+Ganges / Bhramaputra Basin,Random Forest,month_sin,0.09363290579270898,0.42963691682400945
+Ganges / Bhramaputra Basin,Random Forest,month_cos,0.10180720773980015,0.4671449045982201
+Ganges / Bhramaputra Basin,Gradient Boosting,anomaly_lag1,0.17442337397065538,0.6357265699798705
+Ganges / Bhramaputra Basin,Gradient Boosting,anomaly_lag2,0.03676023365911245,0.13398122467059817
+Ganges / Bhramaputra Basin,Gradient Boosting,anomaly_lag3,0.053147102113704936,0.19370697952901555
+Ganges / Bhramaputra Basin,Gradient Boosting,raw_lag1,0.2743685449173192,1.0
+Ganges / Bhramaputra Basin,Gradient Boosting,bar_state_lag1,0.0015968440437360528,0.005820069659287149
+Ganges / Bhramaputra Basin,Gradient Boosting,rolling_autocorr_3,0.003831373526321056,0.013964332272402574
+Ganges / Bhramaputra Basin,Gradient Boosting,rolling_variance_3,0.03583638991738668,0.13061406120073257
+Ganges / Bhramaputra Basin,Gradient Boosting,rolling_skew_3,0.06031019739596932,0.2198145469413914
+Ganges / Bhramaputra Basin,Gradient Boosting,rolling_autocorr_6,0.08285369392262411,0.30197956528723807
+Ganges / Bhramaputra Basin,Gradient Boosting,rolling_variance_6,0.032165224060358454,0.11723364305500626
+Ganges / Bhramaputra Basin,Gradient Boosting,rolling_skew_6,0.030744150916615372,0.11205421133781973
+Ganges / Bhramaputra Basin,Gradient Boosting,rolling_autocorr_12,0.028226914214115457,0.1028795564834942
+Ganges / Bhramaputra Basin,Gradient Boosting,rolling_variance_12,0.08256764147434947,0.3009369805829279
+Ganges / Bhramaputra Basin,Gradient Boosting,rolling_skew_12,0.04923119229024784,0.17943453505241874
+Ganges / Bhramaputra Basin,Gradient Boosting,month_sin,0.003014453758928577,0.010986878105276173
+Ganges / Bhramaputra Basin,Gradient Boosting,month_cos,0.05092266981855573,0.18559951846484896
+Mekong Basin,Logistic Regression,anomaly_lag1,-0.34828137186929536,0.38710098085706957
+Mekong Basin,Logistic Regression,anomaly_lag2,-0.054285807119179345,0.060336529254106305
+Mekong Basin,Logistic Regression,anomaly_lag3,-0.08674517034956424,0.0964138287003522
+Mekong Basin,Logistic Regression,raw_lag1,0.8997170999106621,1.0
+Mekong Basin,Logistic Regression,bar_state_lag1,-0.023863023769943596,0.026522807860729875
+Mekong Basin,Logistic Regression,rolling_autocorr_3,-0.06657848491119066,0.07399935481697703
+Mekong Basin,Logistic Regression,rolling_variance_3,-0.12583731481719962,0.13986320236627126
+Mekong Basin,Logistic Regression,rolling_skew_3,0.19351956268030746,0.2150893460839225
+Mekong Basin,Logistic Regression,rolling_autocorr_6,-0.2002591114524127,0.22258008819916567
+Mekong Basin,Logistic Regression,rolling_variance_6,0.005390414293662253,0.005991232459844875
+Mekong Basin,Logistic Regression,rolling_skew_6,0.028105501686052272,0.031238154403026266
+Mekong Basin,Logistic Regression,rolling_autocorr_12,-0.062194461674377095,0.0691266862445459
+Mekong Basin,Logistic Regression,rolling_variance_12,0.1165460741029421,0.1295363554994282
+Mekong Basin,Logistic Regression,rolling_skew_12,-0.2661297431863278,0.29579269218374676
+Mekong Basin,Logistic Regression,month_sin,-0.004955754893991181,0.005508125714719956
+Mekong Basin,Logistic Regression,month_cos,-0.022154462848706643,0.024623809918591616
+Mekong Basin,Random Forest,anomaly_lag1,0.1658623493254211,1.0
+Mekong Basin,Random Forest,anomaly_lag2,0.046227285311432276,0.27870873347352976
+Mekong Basin,Random Forest,anomaly_lag3,0.03519772083416404,0.21221043218859928
+Mekong Basin,Random Forest,raw_lag1,0.15391318708427998,0.9279573556642627
+Mekong Basin,Random Forest,bar_state_lag1,0.0977439121844903,0.589307414142056
+Mekong Basin,Random Forest,rolling_autocorr_3,0.004848380829881396,0.02923135268251203
+Mekong Basin,Random Forest,rolling_variance_3,0.055580303479828515,0.33509897638541364
+Mekong Basin,Random Forest,rolling_skew_3,0.0324468106131905,0.19562493082459612
+Mekong Basin,Random Forest,rolling_autocorr_6,0.04435554785046106,0.26742384893774596
+Mekong Basin,Random Forest,rolling_variance_6,0.03678517807178674,0.22178136401296478
+Mekong Basin,Random Forest,rolling_skew_6,0.0409924435897467,0.24714737103668857
+Mekong Basin,Random Forest,rolling_autocorr_12,0.05759707742928828,0.347258299810303
+Mekong Basin,Random Forest,rolling_variance_12,0.0508308983742505,0.30646435783036285
+Mekong Basin,Random Forest,rolling_skew_12,0.05210688406643169,0.3141573978564493
+Mekong Basin,Random Forest,month_sin,0.09588986227309199,0.5781291695377868
+Mekong Basin,Random Forest,month_cos,0.029622158682254925,0.17859483362397333
+Mekong Basin,Gradient Boosting,anomaly_lag1,0.2876646331001733,1.0
+Mekong Basin,Gradient Boosting,anomaly_lag2,0.037811023523020515,0.1314413354034161
+Mekong Basin,Gradient Boosting,anomaly_lag3,0.03551883101627139,0.12347305483292652
+Mekong Basin,Gradient Boosting,raw_lag1,0.14517199574242065,0.5046570868928036
+Mekong Basin,Gradient Boosting,bar_state_lag1,0.03109303418693993,0.10808778907524728
+Mekong Basin,Gradient Boosting,rolling_autocorr_3,0.0,0.0
+Mekong Basin,Gradient Boosting,rolling_variance_3,0.041520636035601875,0.1443369509422563
+Mekong Basin,Gradient Boosting,rolling_skew_3,0.03912210022766346,0.13599899231978227
+Mekong Basin,Gradient Boosting,rolling_autocorr_6,0.04046915824479002,0.1406817300015378
+Mekong Basin,Gradient Boosting,rolling_variance_6,0.049989176445096595,0.17377588585138615
+Mekong Basin,Gradient Boosting,rolling_skew_6,0.024249717457135753,0.08429857085939127
+Mekong Basin,Gradient Boosting,rolling_autocorr_12,0.10571025961480657,0.36747742840530256
+Mekong Basin,Gradient Boosting,rolling_variance_12,0.057097588965015045,0.1984866486702659
+Mekong Basin,Gradient Boosting,rolling_skew_12,0.07618198722031637,0.264829174164721
+Mekong Basin,Gradient Boosting,month_sin,0.01876424401173877,0.06522958282885093
+Mekong Basin,Gradient Boosting,month_cos,0.009635614209009795,0.033495998813501654
+Mississippi / Missouri,Logistic Regression,anomaly_lag1,0.5384230303081303,1.0
+Mississippi / Missouri,Logistic Regression,anomaly_lag2,-0.14230022830593214,0.264290753358927
+Mississippi / Missouri,Logistic Regression,anomaly_lag3,-0.15151090279325088,0.2813975150850137
+Mississippi / Missouri,Logistic Regression,raw_lag1,0.04162118670363685,0.07730201785725575
+Mississippi / Missouri,Logistic Regression,bar_state_lag1,-0.46279780859949804,0.859543114889879
+Mississippi / Missouri,Logistic Regression,rolling_autocorr_3,-0.06071398003085075,0.11276259857626293
+Mississippi / Missouri,Logistic Regression,rolling_variance_3,0.10590559512743447,0.19669588625662335
+Mississippi / Missouri,Logistic Regression,rolling_skew_3,-0.12238794643940736,0.22730815650542813
+Mississippi / Missouri,Logistic Regression,rolling_autocorr_6,-0.09482177926058073,0.17611018460023123
+Mississippi / Missouri,Logistic Regression,rolling_variance_6,0.2590348177646964,0.481099067431152
+Mississippi / Missouri,Logistic Regression,rolling_skew_6,-0.2987757177245076,0.5549088744467772
+Mississippi / Missouri,Logistic Regression,rolling_autocorr_12,0.14471092927177173,0.26876808963568316
+Mississippi / Missouri,Logistic Regression,rolling_variance_12,0.07695199506054866,0.14292106899014023
+Mississippi / Missouri,Logistic Regression,rolling_skew_12,-0.15635470535940266,0.2903937917921593
+Mississippi / Missouri,Logistic Regression,month_sin,-0.02826846823677681,0.052502338580501004
+Mississippi / Missouri,Logistic Regression,month_cos,0.1408718022386777,0.26163777236285596
+Mississippi / Missouri,Random Forest,anomaly_lag1,0.19727378003562163,1.0
+Mississippi / Missouri,Random Forest,anomaly_lag2,0.045452833441743945,0.2304048385626136
+Mississippi / Missouri,Random Forest,anomaly_lag3,0.053749230027613254,0.2724600806955074
+Mississippi / Missouri,Random Forest,raw_lag1,0.061803025350294166,0.3132855534026591
+Mississippi / Missouri,Random Forest,bar_state_lag1,0.13432238758712564,0.6808932619574234
+Mississippi / Missouri,Random Forest,rolling_autocorr_3,0.003202989182473214,0.016236264048343635
+Mississippi / Missouri,Random Forest,rolling_variance_3,0.05925721135757626,0.30038057438183735
+Mississippi / Missouri,Random Forest,rolling_skew_3,0.09216971840025384,0.46721727734730284
+Mississippi / Missouri,Random Forest,rolling_autocorr_6,0.03936600186090554,0.19955009659062264
+Mississippi / Missouri,Random Forest,rolling_variance_6,0.06675524846874172,0.33838885459936824
+Mississippi / Missouri,Random Forest,rolling_skew_6,0.05150163521448795,0.2610668037343246
+Mississippi / Missouri,Random Forest,rolling_autocorr_12,0.0524376866426274,0.2658117395690332
+Mississippi / Missouri,Random Forest,rolling_variance_12,0.05620395022113788,0.28490329637820677
+Mississippi / Missouri,Random Forest,rolling_skew_12,0.054378825069833,0.2756515592696295
+Mississippi / Missouri,Random Forest,month_sin,0.013496346325860893,0.06841429369591776
+Mississippi / Missouri,Random Forest,month_cos,0.018629130813703633,0.09443287805576484
+Mississippi / Missouri,Gradient Boosting,anomaly_lag1,0.3545716757422874,1.0
+Mississippi / Missouri,Gradient Boosting,anomaly_lag2,0.02671933739802474,0.07535666051747772
+Mississippi / Missouri,Gradient Boosting,anomaly_lag3,0.06657874774286807,0.18777232446299338
+Mississippi / Missouri,Gradient Boosting,raw_lag1,0.019382679759794325,0.05466505388287755
+Mississippi / Missouri,Gradient Boosting,bar_state_lag1,0.0,0.0
+Mississippi / Missouri,Gradient Boosting,rolling_autocorr_3,0.0,0.0
+Mississippi / Missouri,Gradient Boosting,rolling_variance_3,0.04527497658756996,0.12768920837454903
+Mississippi / Missouri,Gradient Boosting,rolling_skew_3,0.09802653812033821,0.2764646609606421
+Mississippi / Missouri,Gradient Boosting,rolling_autocorr_6,0.07149603750653125,0.20164057762610618
+Mississippi / Missouri,Gradient Boosting,rolling_variance_6,0.05174672394985866,0.14594150489186178
+Mississippi / Missouri,Gradient Boosting,rolling_skew_6,0.044152826225358745,0.12452440295160591
+Mississippi / Missouri,Gradient Boosting,rolling_autocorr_12,0.05731550136298211,0.16164715143417327
+Mississippi / Missouri,Gradient Boosting,rolling_variance_12,0.06465555915862917,0.18234834754714768
+Mississippi / Missouri,Gradient Boosting,rolling_skew_12,0.06041778517727322,0.17039653562510323
+Mississippi / Missouri,Gradient Boosting,month_sin,0.02156384341860352,0.06081659899499904
+Mississippi / Missouri,Gradient Boosting,month_cos,0.018097767849880673,0.05104121137706058
+Murray,Logistic Regression,anomaly_lag1,-0.3672001944371609,0.5114729731678098
+Murray,Logistic Regression,anomaly_lag2,0.26665948045020343,0.37142986130033034
+Murray,Logistic Regression,anomaly_lag3,-0.045206143831751935,0.06296761587100586
+Murray,Logistic Regression,raw_lag1,0.6662325519437592,0.927994999256914
+Murray,Logistic Regression,bar_state_lag1,-0.08562032714272544,0.1192605122511299
+Murray,Logistic Regression,rolling_autocorr_3,0.16594648603922058,0.23114678011358092
+Murray,Logistic Regression,rolling_variance_3,-0.5820051824019231,0.8106747369741035
+Murray,Logistic Regression,rolling_skew_3,-0.03196861970533663,0.044529074920078036
+Murray,Logistic Regression,rolling_autocorr_6,-0.23386504860914836,0.3257505130559656
+Murray,Logistic Regression,rolling_variance_6,0.48062141133078184,0.6694573313019636
+Murray,Logistic Regression,rolling_skew_6,0.0042147113507128055,0.005870669401189824
+Murray,Logistic Regression,rolling_autocorr_12,0.1824652311862667,0.25415573223658117
+Murray,Logistic Regression,rolling_variance_12,-0.7179268772754601,1.0
+Murray,Logistic Regression,rolling_skew_12,0.12775349239342876,0.17794777774340276
+Murray,Logistic Regression,month_sin,0.2310242691656835,0.3217935927436273
+Murray,Logistic Regression,month_cos,0.08246690686740828,0.11486811467537061
+Murray,Random Forest,anomaly_lag1,0.16032326255657328,1.0
+Murray,Random Forest,anomaly_lag2,0.09101341195866114,0.5676868753001157
+Murray,Random Forest,anomaly_lag3,0.050262044884064196,0.31350437910610895
+Murray,Random Forest,raw_lag1,0.08558951331964378,0.5338558606829861
+Murray,Random Forest,bar_state_lag1,0.08620862524883884,0.537717508202644
+Murray,Random Forest,rolling_autocorr_3,0.006299968506186915,0.0392954110696434
+Murray,Random Forest,rolling_variance_3,0.058146931578650404,0.36268555574168215
+Murray,Random Forest,rolling_skew_3,0.065233284188504,0.406885957460385
+Murray,Random Forest,rolling_autocorr_6,0.04128872024914339,0.25753418181952126
+Murray,Random Forest,rolling_variance_6,0.05679074862306848,0.3542265028634177
+Murray,Random Forest,rolling_skew_6,0.03959019216177783,0.2469397860950318
+Murray,Random Forest,rolling_autocorr_12,0.05157954209900829,0.3217221336224206
+Murray,Random Forest,rolling_variance_12,0.09456812575356409,0.5898590400765692
+Murray,Random Forest,rolling_skew_12,0.045677838223612544,0.2849108575712411
+Murray,Random Forest,month_sin,0.048007986571548374,0.29944492025670816
+Murray,Random Forest,month_cos,0.019419804077154434,0.12112904744750792
+Murray,Gradient Boosting,anomaly_lag1,0.28337856586773696,1.0
+Murray,Gradient Boosting,anomaly_lag2,0.11747929985517669,0.4145666398425085
+Murray,Gradient Boosting,anomaly_lag3,0.040248683354541986,0.1420315020343758
+Murray,Gradient Boosting,raw_lag1,0.03379988108512911,0.11927465643574729
+Murray,Gradient Boosting,bar_state_lag1,0.0,0.0
+Murray,Gradient Boosting,rolling_autocorr_3,0.0,0.0
+Murray,Gradient Boosting,rolling_variance_3,0.04594740902373246,0.1621414410191411
+Murray,Gradient Boosting,rolling_skew_3,0.0637470409911225,0.2249536438859513
+Murray,Gradient Boosting,rolling_autocorr_6,0.042628936709423165,0.1504310552877864
+Murray,Gradient Boosting,rolling_variance_6,0.09605074046716945,0.33894850223781503
+Murray,Gradient Boosting,rolling_skew_6,0.029439968761405522,0.10388918678890563
+Murray,Gradient Boosting,rolling_autocorr_12,0.06817925441781439,0.24059425316463812
+Murray,Gradient Boosting,rolling_variance_12,0.08918696622951074,0.31472728347117657
+Murray,Gradient Boosting,rolling_skew_12,0.04186898064431046,0.1477492855400088
+Murray,Gradient Boosting,month_sin,0.04273892492831739,0.15081918703853275
+Murray,Gradient Boosting,month_cos,0.005305347664609296,0.018721767640977806
+Nile,Logistic Regression,anomaly_lag1,0.9040045043190679,0.9780026487333343
+Nile,Logistic Regression,anomaly_lag2,0.07445754590221114,0.0805523388021136
+Nile,Logistic Regression,anomaly_lag3,-0.060190698632833974,0.06511766524477909
+Nile,Logistic Regression,raw_lag1,-0.9243374805680684,1.0
+Nile,Logistic Regression,bar_state_lag1,-0.7341600045912882,0.7942553667088094
+Nile,Logistic Regression,rolling_autocorr_3,-0.3078332777407129,0.3330312620792228
+Nile,Logistic Regression,rolling_variance_3,-0.05862611811793723,0.06342501451083372
+Nile,Logistic Regression,rolling_skew_3,0.07608444079643095,0.0823124047178871
+Nile,Logistic Regression,rolling_autocorr_6,-0.34088709854952226,0.36879073467844653
+Nile,Logistic Regression,rolling_variance_6,0.20926146152583885,0.22639075654190005
+Nile,Logistic Regression,rolling_skew_6,-0.006227685866143517,0.006737458987724028
+Nile,Logistic Regression,rolling_autocorr_12,0.08590451056642139,0.09293630559438876
+Nile,Logistic Regression,rolling_variance_12,0.029800726053659746,0.03224009269357461
+Nile,Logistic Regression,rolling_skew_12,0.1926360039005653,0.2084044063453722
+Nile,Logistic Regression,month_sin,-0.4782937185410446,0.5174449036158314
+Nile,Logistic Regression,month_cos,-0.5662123675500434,0.6125602168615594
+Nile,Random Forest,anomaly_lag1,0.17918125953165162,1.0
+Nile,Random Forest,anomaly_lag2,0.0765865135339463,0.4274247972925852
+Nile,Random Forest,anomaly_lag3,0.03468093229022775,0.19355222962980403
+Nile,Random Forest,raw_lag1,0.11115692364551051,0.6203602091873626
+Nile,Random Forest,bar_state_lag1,0.13252565131299152,0.7396178130424483
+Nile,Random Forest,rolling_autocorr_3,0.0036584753953607546,0.020417734560653093
+Nile,Random Forest,rolling_variance_3,0.04322366536567446,0.24122871710274577
+Nile,Random Forest,rolling_skew_3,0.05165447980614349,0.28828059330065675
+Nile,Random Forest,rolling_autocorr_6,0.03365892127438887,0.18784844666438547
+Nile,Random Forest,rolling_variance_6,0.060663998109513145,0.33856218149196066
+Nile,Random Forest,rolling_skew_6,0.04507461735038429,0.25155877053326575
+Nile,Random Forest,rolling_autocorr_12,0.05696099878070692,0.3178959614950413
+Nile,Random Forest,rolling_variance_12,0.05511017850984418,0.307566643151703
+Nile,Random Forest,rolling_skew_12,0.06277994430455097,0.350371151919831
+Nile,Random Forest,month_sin,0.030982371521014705,0.172910780971164
+Nile,Random Forest,month_cos,0.02210106926809061,0.12334475896563585
+Nile,Gradient Boosting,anomaly_lag1,0.2570412897857189,1.0
+Nile,Gradient Boosting,anomaly_lag2,0.07534794151650727,0.29313555646768147
+Nile,Gradient Boosting,anomaly_lag3,0.01923950568712922,0.07484986440570747
+Nile,Gradient Boosting,raw_lag1,0.09088237172741102,0.3535711005931173
+Nile,Gradient Boosting,bar_state_lag1,0.09222420428786098,0.35879140026391554
+Nile,Gradient Boosting,rolling_autocorr_3,0.006072055417283521,0.023622879508367927
+Nile,Gradient Boosting,rolling_variance_3,0.035514018337035304,0.13816464415752575
+Nile,Gradient Boosting,rolling_skew_3,0.1024844391523899,0.39870808008248604
+Nile,Gradient Boosting,rolling_autocorr_6,0.021927164942137114,0.08530600262866943
+Nile,Gradient Boosting,rolling_variance_6,0.04037306600385356,0.15706840732673866
+Nile,Gradient Boosting,rolling_skew_6,0.046023088121522907,0.17904939770528622
+Nile,Gradient Boosting,rolling_autocorr_12,0.05894129788937202,0.2293067309867147
+Nile,Gradient Boosting,rolling_variance_12,0.058307347857837165,0.22684039558953653
+Nile,Gradient Boosting,rolling_skew_12,0.08354821454725157,0.32503810814558665
+Nile,Gradient Boosting,month_sin,0.003371364061550219,0.013116040867833875
+Nile,Gradient Boosting,month_cos,0.008702630665139178,0.03385693665167211
+Yangtze Basin,Logistic Regression,anomaly_lag1,-0.3873629988549983,1.0
+Yangtze Basin,Logistic Regression,anomaly_lag2,0.011439897614292793,0.029532757770122212
+Yangtze Basin,Logistic Regression,anomaly_lag3,-0.13636759930344122,0.3520408498140726
+Yangtze Basin,Logistic Regression,raw_lag1,-0.05625387670476739,0.14522263838065988
+Yangtze Basin,Logistic Regression,bar_state_lag1,0.279292211134251,0.7210090069516385
+Yangtze Basin,Logistic Regression,rolling_autocorr_3,0.2605241588200031,0.6725581937099914
+Yangtze Basin,Logistic Regression,rolling_variance_3,0.12460164472051295,0.3216663571090204
+Yangtze Basin,Logistic Regression,rolling_skew_3,0.07814099840378655,0.20172550975380354
+Yangtze Basin,Logistic Regression,rolling_autocorr_6,-0.15342948749350788,0.39608710162568
+Yangtze Basin,Logistic Regression,rolling_variance_6,0.304014090310175,0.7848299688117003
+Yangtze Basin,Logistic Regression,rolling_skew_6,0.1475853670656948,0.3810001665154923
+Yangtze Basin,Logistic Regression,rolling_autocorr_12,0.08847551501562814,0.22840466249267966
+Yangtze Basin,Logistic Regression,rolling_variance_12,-0.37241874005932823,0.9614205310268569
+Yangtze Basin,Logistic Regression,rolling_skew_12,-0.0040581280416130475,0.010476292401722468
+Yangtze Basin,Logistic Regression,month_sin,-0.3814679691357043,0.9847816396075024
+Yangtze Basin,Logistic Regression,month_cos,-0.22883175195747504,0.5907424112108697
+Yangtze Basin,Random Forest,anomaly_lag1,0.17520477821362632,1.0
+Yangtze Basin,Random Forest,anomaly_lag2,0.052251601206303414,0.2982315992694748
+Yangtze Basin,Random Forest,anomaly_lag3,0.0609427791016129,0.3478374261420295
+Yangtze Basin,Random Forest,raw_lag1,0.09274355785136196,0.529343770169785
+Yangtze Basin,Random Forest,bar_state_lag1,0.11663663886477686,0.6657160840816931
+Yangtze Basin,Random Forest,rolling_autocorr_3,0.00837262501881143,0.04778765227853963
+Yangtze Basin,Random Forest,rolling_variance_3,0.10288799731060327,0.5872442427634733
+Yangtze Basin,Random Forest,rolling_skew_3,0.04466108218711788,0.2549079005862662
+Yangtze Basin,Random Forest,rolling_autocorr_6,0.03895561255844641,0.22234332279995253
+Yangtze Basin,Random Forest,rolling_variance_6,0.05634351692788278,0.3215866456517722
+Yangtze Basin,Random Forest,rolling_skew_6,0.041212723931934106,0.23522602723587616
+Yangtze Basin,Random Forest,rolling_autocorr_12,0.03162871450766291,0.18052426897340762
+Yangtze Basin,Random Forest,rolling_variance_12,0.08903039828599374,0.5081505150358366
+Yangtze Basin,Random Forest,rolling_skew_12,0.04112673058325535,0.2347352110061161
+Yangtze Basin,Random Forest,month_sin,0.03109215302689032,0.17746178696667628
+Yangtze Basin,Random Forest,month_cos,0.016909090423720338,0.09651044107429062
+Yangtze Basin,Gradient Boosting,anomaly_lag1,0.32184834277147617,1.0
+Yangtze Basin,Gradient Boosting,anomaly_lag2,0.056571689609287094,0.1757712627075884
+Yangtze Basin,Gradient Boosting,anomaly_lag3,0.05194769406924938,0.16140426146650722
+Yangtze Basin,Gradient Boosting,raw_lag1,0.06660777449703985,0.2069539147645503
+Yangtze Basin,Gradient Boosting,bar_state_lag1,0.02128545413368375,0.06613504345056449
+Yangtze Basin,Gradient Boosting,rolling_autocorr_3,0.013842820692121218,0.043010383626396725
+Yangtze Basin,Gradient Boosting,rolling_variance_3,0.08074034047833432,0.2508645524878867
+Yangtze Basin,Gradient Boosting,rolling_skew_3,0.07319411141649898,0.22741801553556365
+Yangtze Basin,Gradient Boosting,rolling_autocorr_6,0.05529165024671801,0.17179411200503542
+Yangtze Basin,Gradient Boosting,rolling_variance_6,0.05084161590503563,0.15796761750342456
+Yangtze Basin,Gradient Boosting,rolling_skew_6,0.0394525468683025,0.12258117139448879
+Yangtze Basin,Gradient Boosting,rolling_autocorr_12,0.025182992052868152,0.07824490204303763
+Yangtze Basin,Gradient Boosting,rolling_variance_12,0.09887690061303006,0.3072158140122418
+Yangtze Basin,Gradient Boosting,rolling_skew_12,0.030060894121894846,0.09340080443800562
+Yangtze Basin,Gradient Boosting,month_sin,0.01084816597488211,0.033705831390856957
+Yangtze Basin,Gradient Boosting,month_cos,0.003407006549578053,0.0105857514139731
