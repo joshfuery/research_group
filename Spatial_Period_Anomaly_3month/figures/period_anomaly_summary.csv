@@ -1,0 +1,5 @@
+basin,type,start_month,end_month,duration_blocks,n_months,basin_mean_anomaly_mm_per_month
+Mekong Basin,Dry,2015-04,2016-09,6,18,-14.365
+Mekong Basin,Wet,2016-10,2018-09,8,24,12.003
+Murray,Dry,2001-01,2003-03,9,27,-12.311
+Murray,Wet,2021-07,2022-12,6,18,19.929
