@@ -1,0 +1,374 @@
+type,start_date,end_date,duration_blocks,basin,variable
+Wet,2002-01-01 00:00:00,2007-01-01 00:00:00,6,Amazon Basin,ET
+Dry,2008-01-01 00:00:00,2014-01-01 00:00:00,7,Amazon Basin,ET
+Wet,2015-01-01 00:00:00,2016-01-01 00:00:00,2,Amazon Basin,ET
+Dry,2017-01-01 00:00:00,2017-01-01 00:00:00,1,Amazon Basin,ET
+Wet,2018-01-01 00:00:00,2018-01-01 00:00:00,1,Amazon Basin,ET
+Dry,2019-01-01 00:00:00,2022-01-01 00:00:00,4,Amazon Basin,ET
+Wet,2023-01-01 00:00:00,2024-01-01 00:00:00,2,Amazon Basin,ET
+Dry,1998-01-01 00:00:00,1998-01-01 00:00:00,1,Amazon Basin,Precip
+Wet,1999-01-01 00:00:00,2004-01-01 00:00:00,6,Amazon Basin,Precip
+Dry,2005-01-01 00:00:00,2005-01-01 00:00:00,1,Amazon Basin,Precip
+Wet,2006-01-01 00:00:00,2009-01-01 00:00:00,4,Amazon Basin,Precip
+Dry,2010-01-01 00:00:00,2010-01-01 00:00:00,1,Amazon Basin,Precip
+Wet,2011-01-01 00:00:00,2014-01-01 00:00:00,4,Amazon Basin,Precip
+Dry,2015-01-01 00:00:00,2016-01-01 00:00:00,2,Amazon Basin,Precip
+Wet,2017-01-01 00:00:00,2019-01-01 00:00:00,3,Amazon Basin,Precip
+Dry,2020-01-01 00:00:00,2020-01-01 00:00:00,1,Amazon Basin,Precip
+Wet,2021-01-01 00:00:00,2021-01-01 00:00:00,1,Amazon Basin,Precip
+Dry,2022-01-01 00:00:00,2025-01-01 00:00:00,4,Amazon Basin,Precip
+Dry,2002-01-01 00:00:00,2002-01-01 00:00:00,1,California,ET
+Wet,2003-01-01 00:00:00,2006-01-01 00:00:00,4,California,ET
+Dry,2007-01-01 00:00:00,2009-01-01 00:00:00,3,California,ET
+Wet,2010-01-01 00:00:00,2011-01-01 00:00:00,2,California,ET
+Dry,2012-01-01 00:00:00,2015-01-01 00:00:00,4,California,ET
+Wet,2016-01-01 00:00:00,2017-01-01 00:00:00,2,California,ET
+Dry,2018-01-01 00:00:00,2018-01-01 00:00:00,1,California,ET
+Wet,2019-01-01 00:00:00,2019-01-01 00:00:00,1,California,ET
+Dry,2020-01-01 00:00:00,2022-01-01 00:00:00,3,California,ET
+Wet,2023-01-01 00:00:00,2023-01-01 00:00:00,1,California,ET
+Dry,2024-01-01 00:00:00,2024-01-01 00:00:00,1,California,ET
+Wet,1998-01-01 00:00:00,1998-01-01 00:00:00,1,California,Precip
+Dry,1999-01-01 00:00:00,1999-01-01 00:00:00,1,California,Precip
+Wet,2000-01-01 00:00:00,2001-01-01 00:00:00,2,California,Precip
+Dry,2002-01-01 00:00:00,2002-01-01 00:00:00,1,California,Precip
+Wet,2003-01-01 00:00:00,2006-01-01 00:00:00,4,California,Precip
+Dry,2007-01-01 00:00:00,2009-01-01 00:00:00,3,California,Precip
+Wet,2010-01-01 00:00:00,2010-01-01 00:00:00,1,California,Precip
+Dry,2011-01-01 00:00:00,2011-01-01 00:00:00,1,California,Precip
+Wet,2012-01-01 00:00:00,2012-01-01 00:00:00,1,California,Precip
+Dry,2013-01-01 00:00:00,2015-01-01 00:00:00,3,California,Precip
+Wet,2016-01-01 00:00:00,2017-01-01 00:00:00,2,California,Precip
+Dry,2018-01-01 00:00:00,2018-01-01 00:00:00,1,California,Precip
+Wet,2019-01-01 00:00:00,2019-01-01 00:00:00,1,California,Precip
+Dry,2020-01-01 00:00:00,2022-01-01 00:00:00,3,California,Precip
+Wet,2023-01-01 00:00:00,2024-01-01 00:00:00,2,California,Precip
+Dry,2025-01-01 00:00:00,2025-01-01 00:00:00,1,California,Precip
+Dry,2002-01-01 00:00:00,2004-01-01 00:00:00,3,Colorado,ET
+Wet,2005-01-01 00:00:00,2005-01-01 00:00:00,1,Colorado,ET
+Dry,2006-01-01 00:00:00,2009-01-01 00:00:00,4,Colorado,ET
+Wet,2010-01-01 00:00:00,2011-01-01 00:00:00,2,Colorado,ET
+Dry,2012-01-01 00:00:00,2012-01-01 00:00:00,1,Colorado,ET
+Wet,2013-01-01 00:00:00,2013-01-01 00:00:00,1,Colorado,ET
+Dry,2014-01-01 00:00:00,2014-01-01 00:00:00,1,Colorado,ET
+Wet,2015-01-01 00:00:00,2017-01-01 00:00:00,3,Colorado,ET
+Dry,2018-01-01 00:00:00,2018-01-01 00:00:00,1,Colorado,ET
+Wet,2019-01-01 00:00:00,2019-01-01 00:00:00,1,Colorado,ET
+Dry,2020-01-01 00:00:00,2020-01-01 00:00:00,1,Colorado,ET
+Wet,2021-01-01 00:00:00,2024-01-01 00:00:00,4,Colorado,ET
+Wet,1998-01-01 00:00:00,1998-01-01 00:00:00,1,Colorado,Precip
+Dry,1999-01-01 00:00:00,2003-01-01 00:00:00,5,Colorado,Precip
+Wet,2004-01-01 00:00:00,2006-01-01 00:00:00,3,Colorado,Precip
+Dry,2007-01-01 00:00:00,2007-01-01 00:00:00,1,Colorado,Precip
+Wet,2008-01-01 00:00:00,2008-01-01 00:00:00,1,Colorado,Precip
+Dry,2009-01-01 00:00:00,2009-01-01 00:00:00,1,Colorado,Precip
+Wet,2010-01-01 00:00:00,2010-01-01 00:00:00,1,Colorado,Precip
+Dry,2011-01-01 00:00:00,2012-01-01 00:00:00,2,Colorado,Precip
+Wet,2013-01-01 00:00:00,2013-01-01 00:00:00,1,Colorado,Precip
+Dry,2014-01-01 00:00:00,2014-01-01 00:00:00,1,Colorado,Precip
+Wet,2015-01-01 00:00:00,2016-01-01 00:00:00,2,Colorado,Precip
+Dry,2017-01-01 00:00:00,2018-01-01 00:00:00,2,Colorado,Precip
+Wet,2019-01-01 00:00:00,2019-01-01 00:00:00,1,Colorado,Precip
+Dry,2020-01-01 00:00:00,2020-01-01 00:00:00,1,Colorado,Precip
+Wet,2021-01-01 00:00:00,2021-01-01 00:00:00,1,Colorado,Precip
+Dry,2022-01-01 00:00:00,2022-01-01 00:00:00,1,Colorado,Precip
+Wet,2023-01-01 00:00:00,2023-01-01 00:00:00,1,Colorado,Precip
+Dry,2024-01-01 00:00:00,2025-01-01 00:00:00,2,Colorado,Precip
+Dry,2002-01-01 00:00:00,2009-01-01 00:00:00,8,Congo,ET
+Wet,2010-01-01 00:00:00,2010-01-01 00:00:00,1,Congo,ET
+Dry,2011-01-01 00:00:00,2012-01-01 00:00:00,2,Congo,ET
+Wet,2013-01-01 00:00:00,2024-01-01 00:00:00,12,Congo,ET
+Dry,1998-01-01 00:00:00,1998-01-01 00:00:00,1,Congo,Precip
+Wet,1999-01-01 00:00:00,1999-01-01 00:00:00,1,Congo,Precip
+Dry,2000-01-01 00:00:00,2000-01-01 00:00:00,1,Congo,Precip
+Wet,2001-01-01 00:00:00,2002-01-01 00:00:00,2,Congo,Precip
+Dry,2003-01-01 00:00:00,2005-01-01 00:00:00,3,Congo,Precip
+Wet,2006-01-01 00:00:00,2007-01-01 00:00:00,2,Congo,Precip
+Dry,2008-01-01 00:00:00,2008-01-01 00:00:00,1,Congo,Precip
+Wet,2009-01-01 00:00:00,2010-01-01 00:00:00,2,Congo,Precip
+Dry,2011-01-01 00:00:00,2011-01-01 00:00:00,1,Congo,Precip
+Wet,2012-01-01 00:00:00,2013-01-01 00:00:00,2,Congo,Precip
+Dry,2014-01-01 00:00:00,2015-01-01 00:00:00,2,Congo,Precip
+Wet,2016-01-01 00:00:00,2019-01-01 00:00:00,4,Congo,Precip
+Dry,2020-01-01 00:00:00,2024-01-01 00:00:00,5,Congo,Precip
+Wet,2025-01-01 00:00:00,2025-01-01 00:00:00,1,Congo,Precip
+Dry,2002-01-01 00:00:00,2004-01-01 00:00:00,3,Danube,ET
+Wet,2005-01-01 00:00:00,2006-01-01 00:00:00,2,Danube,ET
+Dry,2007-01-01 00:00:00,2007-01-01 00:00:00,1,Danube,ET
+Wet,2008-01-01 00:00:00,2008-01-01 00:00:00,1,Danube,ET
+Dry,2009-01-01 00:00:00,2009-01-01 00:00:00,1,Danube,ET
+Wet,2010-01-01 00:00:00,2011-01-01 00:00:00,2,Danube,ET
+Dry,2012-01-01 00:00:00,2012-01-01 00:00:00,1,Danube,ET
+Wet,2013-01-01 00:00:00,2014-01-01 00:00:00,2,Danube,ET
+Dry,2015-01-01 00:00:00,2015-01-01 00:00:00,1,Danube,ET
+Wet,2016-01-01 00:00:00,2021-01-01 00:00:00,6,Danube,ET
+Dry,2022-01-01 00:00:00,2022-01-01 00:00:00,1,Danube,ET
+Wet,2023-01-01 00:00:00,2023-01-01 00:00:00,1,Danube,ET
+Dry,2024-01-01 00:00:00,2024-01-01 00:00:00,1,Danube,ET
+Wet,1998-01-01 00:00:00,1999-01-01 00:00:00,2,Danube,Precip
+Dry,2000-01-01 00:00:00,2000-01-01 00:00:00,1,Danube,Precip
+Wet,2001-01-01 00:00:00,2002-01-01 00:00:00,2,Danube,Precip
+Dry,2003-01-01 00:00:00,2003-01-01 00:00:00,1,Danube,Precip
+Wet,2004-01-01 00:00:00,2005-01-01 00:00:00,2,Danube,Precip
+Dry,2006-01-01 00:00:00,2006-01-01 00:00:00,1,Danube,Precip
+Wet,2007-01-01 00:00:00,2007-01-01 00:00:00,1,Danube,Precip
+Dry,2008-01-01 00:00:00,2008-01-01 00:00:00,1,Danube,Precip
+Wet,2009-01-01 00:00:00,2010-01-01 00:00:00,2,Danube,Precip
+Dry,2011-01-01 00:00:00,2012-01-01 00:00:00,2,Danube,Precip
+Wet,2013-01-01 00:00:00,2014-01-01 00:00:00,2,Danube,Precip
+Dry,2015-01-01 00:00:00,2015-01-01 00:00:00,1,Danube,Precip
+Wet,2016-01-01 00:00:00,2017-01-01 00:00:00,2,Danube,Precip
+Dry,2018-01-01 00:00:00,2022-01-01 00:00:00,5,Danube,Precip
+Wet,2023-01-01 00:00:00,2023-01-01 00:00:00,1,Danube,Precip
+Dry,2024-01-01 00:00:00,2025-01-01 00:00:00,2,Danube,Precip
+Dry,2002-01-01 00:00:00,2007-01-01 00:00:00,6,Ganges / Bhramaputra Basin,ET
+Wet,2008-01-01 00:00:00,2008-01-01 00:00:00,1,Ganges / Bhramaputra Basin,ET
+Dry,2009-01-01 00:00:00,2010-01-01 00:00:00,2,Ganges / Bhramaputra Basin,ET
+Wet,2011-01-01 00:00:00,2011-01-01 00:00:00,1,Ganges / Bhramaputra Basin,ET
+Dry,2012-01-01 00:00:00,2012-01-01 00:00:00,1,Ganges / Bhramaputra Basin,ET
+Wet,2013-01-01 00:00:00,2013-01-01 00:00:00,1,Ganges / Bhramaputra Basin,ET
+Dry,2014-01-01 00:00:00,2016-01-01 00:00:00,3,Ganges / Bhramaputra Basin,ET
+Wet,2017-01-01 00:00:00,2024-01-01 00:00:00,8,Ganges / Bhramaputra Basin,ET
+Wet,1998-01-01 00:00:00,2001-01-01 00:00:00,4,Ganges / Bhramaputra Basin,Precip
+Dry,2002-01-01 00:00:00,2002-01-01 00:00:00,1,Ganges / Bhramaputra Basin,Precip
+Wet,2003-01-01 00:00:00,2004-01-01 00:00:00,2,Ganges / Bhramaputra Basin,Precip
+Dry,2005-01-01 00:00:00,2006-01-01 00:00:00,2,Ganges / Bhramaputra Basin,Precip
+Wet,2007-01-01 00:00:00,2008-01-01 00:00:00,2,Ganges / Bhramaputra Basin,Precip
+Dry,2009-01-01 00:00:00,2009-01-01 00:00:00,1,Ganges / Bhramaputra Basin,Precip
+Wet,2010-01-01 00:00:00,2011-01-01 00:00:00,2,Ganges / Bhramaputra Basin,Precip
+Dry,2012-01-01 00:00:00,2012-01-01 00:00:00,1,Ganges / Bhramaputra Basin,Precip
+Wet,2013-01-01 00:00:00,2013-01-01 00:00:00,1,Ganges / Bhramaputra Basin,Precip
+Dry,2014-01-01 00:00:00,2015-01-01 00:00:00,2,Ganges / Bhramaputra Basin,Precip
+Wet,2016-01-01 00:00:00,2016-01-01 00:00:00,1,Ganges / Bhramaputra Basin,Precip
+Dry,2017-01-01 00:00:00,2019-01-01 00:00:00,3,Ganges / Bhramaputra Basin,Precip
+Wet,2020-01-01 00:00:00,2022-01-01 00:00:00,3,Ganges / Bhramaputra Basin,Precip
+Dry,2023-01-01 00:00:00,2023-01-01 00:00:00,1,Ganges / Bhramaputra Basin,Precip
+Wet,2024-01-01 00:00:00,2024-01-01 00:00:00,1,Ganges / Bhramaputra Basin,Precip
+Dry,2025-01-01 00:00:00,2025-01-01 00:00:00,1,Ganges / Bhramaputra Basin,Precip
+Dry,2002-01-01 00:00:00,2002-01-01 00:00:00,1,Mekong Basin,ET
+Wet,2003-01-01 00:00:00,2003-01-01 00:00:00,1,Mekong Basin,ET
+Dry,2004-01-01 00:00:00,2005-01-01 00:00:00,2,Mekong Basin,ET
+Wet,2006-01-01 00:00:00,2006-01-01 00:00:00,1,Mekong Basin,ET
+Dry,2007-01-01 00:00:00,2008-01-01 00:00:00,2,Mekong Basin,ET
+Wet,2009-01-01 00:00:00,2009-01-01 00:00:00,1,Mekong Basin,ET
+Dry,2010-01-01 00:00:00,2011-01-01 00:00:00,2,Mekong Basin,ET
+Wet,2012-01-01 00:00:00,2019-01-01 00:00:00,8,Mekong Basin,ET
+Dry,2020-01-01 00:00:00,2020-01-01 00:00:00,1,Mekong Basin,ET
+Wet,2021-01-01 00:00:00,2023-01-01 00:00:00,3,Mekong Basin,ET
+Dry,2024-01-01 00:00:00,2024-01-01 00:00:00,1,Mekong Basin,ET
+Dry,1998-01-01 00:00:00,1998-01-01 00:00:00,1,Mekong Basin,Precip
+Wet,1999-01-01 00:00:00,2002-01-01 00:00:00,4,Mekong Basin,Precip
+Dry,2003-01-01 00:00:00,2005-01-01 00:00:00,3,Mekong Basin,Precip
+Wet,2006-01-01 00:00:00,2008-01-01 00:00:00,3,Mekong Basin,Precip
+Dry,2009-01-01 00:00:00,2010-01-01 00:00:00,2,Mekong Basin,Precip
+Wet,2011-01-01 00:00:00,2011-01-01 00:00:00,1,Mekong Basin,Precip
+Dry,2012-01-01 00:00:00,2012-01-01 00:00:00,1,Mekong Basin,Precip
+Wet,2013-01-01 00:00:00,2013-01-01 00:00:00,1,Mekong Basin,Precip
+Dry,2014-01-01 00:00:00,2015-01-01 00:00:00,2,Mekong Basin,Precip
+Wet,2016-01-01 00:00:00,2018-01-01 00:00:00,3,Mekong Basin,Precip
+Dry,2019-01-01 00:00:00,2020-01-01 00:00:00,2,Mekong Basin,Precip
+Wet,2021-01-01 00:00:00,2022-01-01 00:00:00,2,Mekong Basin,Precip
+Dry,2023-01-01 00:00:00,2023-01-01 00:00:00,1,Mekong Basin,Precip
+Wet,2024-01-01 00:00:00,2024-01-01 00:00:00,1,Mekong Basin,Precip
+Dry,2025-01-01 00:00:00,2025-01-01 00:00:00,1,Mekong Basin,Precip
+Dry,2002-01-01 00:00:00,2009-01-01 00:00:00,8,Mississippi / Missouri,ET
+Wet,2010-01-01 00:00:00,2010-01-01 00:00:00,1,Mississippi / Missouri,ET
+Dry,2011-01-01 00:00:00,2013-01-01 00:00:00,3,Mississippi / Missouri,ET
+Wet,2014-01-01 00:00:00,2021-01-01 00:00:00,8,Mississippi / Missouri,ET
+Dry,2022-01-01 00:00:00,2022-01-01 00:00:00,1,Mississippi / Missouri,ET
+Wet,2023-01-01 00:00:00,2024-01-01 00:00:00,2,Mississippi / Missouri,ET
+Wet,1998-01-01 00:00:00,1998-01-01 00:00:00,1,Mississippi / Missouri,Precip
+Dry,1999-01-01 00:00:00,2000-01-01 00:00:00,2,Mississippi / Missouri,Precip
+Wet,2001-01-01 00:00:00,2001-01-01 00:00:00,1,Mississippi / Missouri,Precip
+Dry,2002-01-01 00:00:00,2003-01-01 00:00:00,2,Mississippi / Missouri,Precip
+Wet,2004-01-01 00:00:00,2004-01-01 00:00:00,1,Mississippi / Missouri,Precip
+Dry,2005-01-01 00:00:00,2006-01-01 00:00:00,2,Mississippi / Missouri,Precip
+Wet,2007-01-01 00:00:00,2009-01-01 00:00:00,3,Mississippi / Missouri,Precip
+Dry,2010-01-01 00:00:00,2010-01-01 00:00:00,1,Mississippi / Missouri,Precip
+Wet,2011-01-01 00:00:00,2011-01-01 00:00:00,1,Mississippi / Missouri,Precip
+Dry,2012-01-01 00:00:00,2012-01-01 00:00:00,1,Mississippi / Missouri,Precip
+Wet,2013-01-01 00:00:00,2013-01-01 00:00:00,1,Mississippi / Missouri,Precip
+Dry,2014-01-01 00:00:00,2014-01-01 00:00:00,1,Mississippi / Missouri,Precip
+Wet,2015-01-01 00:00:00,2015-01-01 00:00:00,1,Mississippi / Missouri,Precip
+Dry,2016-01-01 00:00:00,2017-01-01 00:00:00,2,Mississippi / Missouri,Precip
+Wet,2018-01-01 00:00:00,2019-01-01 00:00:00,2,Mississippi / Missouri,Precip
+Dry,2020-01-01 00:00:00,2023-01-01 00:00:00,4,Mississippi / Missouri,Precip
+Wet,2024-01-01 00:00:00,2025-01-01 00:00:00,2,Mississippi / Missouri,Precip
+Dry,2002-01-01 00:00:00,2009-01-01 00:00:00,8,Murray,ET
+Wet,2010-01-01 00:00:00,2012-01-01 00:00:00,3,Murray,ET
+Dry,2013-01-01 00:00:00,2014-01-01 00:00:00,2,Murray,ET
+Wet,2015-01-01 00:00:00,2016-01-01 00:00:00,2,Murray,ET
+Dry,2017-01-01 00:00:00,2019-01-01 00:00:00,3,Murray,ET
+Wet,2020-01-01 00:00:00,2022-01-01 00:00:00,3,Murray,ET
+Dry,2023-01-01 00:00:00,2023-01-01 00:00:00,1,Murray,ET
+Wet,2024-01-01 00:00:00,2024-01-01 00:00:00,1,Murray,ET
+Wet,1998-01-01 00:00:00,2000-01-01 00:00:00,3,Murray,Precip
+Dry,2001-01-01 00:00:00,2009-01-01 00:00:00,9,Murray,Precip
+Wet,2010-01-01 00:00:00,2012-01-01 00:00:00,3,Murray,Precip
+Dry,2013-01-01 00:00:00,2015-01-01 00:00:00,3,Murray,Precip
+Wet,2016-01-01 00:00:00,2016-01-01 00:00:00,1,Murray,Precip
+Dry,2017-01-01 00:00:00,2019-01-01 00:00:00,3,Murray,Precip
+Wet,2020-01-01 00:00:00,2022-01-01 00:00:00,3,Murray,Precip
+Dry,2023-01-01 00:00:00,2023-01-01 00:00:00,1,Murray,Precip
+Wet,2024-01-01 00:00:00,2025-01-01 00:00:00,2,Murray,Precip
+Dry,2002-01-01 00:00:00,2009-01-01 00:00:00,8,Nile,ET
+Wet,2010-01-01 00:00:00,2014-01-01 00:00:00,5,Nile,ET
+Dry,2015-01-01 00:00:00,2015-01-01 00:00:00,1,Nile,ET
+Wet,2016-01-01 00:00:00,2017-01-01 00:00:00,2,Nile,ET
+Dry,2018-01-01 00:00:00,2018-01-01 00:00:00,1,Nile,ET
+Wet,2019-01-01 00:00:00,2024-01-01 00:00:00,6,Nile,ET
+Wet,1998-01-01 00:00:00,1999-01-01 00:00:00,2,Nile,Precip
+Dry,2000-01-01 00:00:00,2000-01-01 00:00:00,1,Nile,Precip
+Wet,2001-01-01 00:00:00,2001-01-01 00:00:00,1,Nile,Precip
+Dry,2002-01-01 00:00:00,2005-01-01 00:00:00,4,Nile,Precip
+Wet,2006-01-01 00:00:00,2007-01-01 00:00:00,2,Nile,Precip
+Dry,2008-01-01 00:00:00,2011-01-01 00:00:00,4,Nile,Precip
+Wet,2012-01-01 00:00:00,2012-01-01 00:00:00,1,Nile,Precip
+Dry,2013-01-01 00:00:00,2013-01-01 00:00:00,1,Nile,Precip
+Wet,2014-01-01 00:00:00,2014-01-01 00:00:00,1,Nile,Precip
+Dry,2015-01-01 00:00:00,2015-01-01 00:00:00,1,Nile,Precip
+Wet,2016-01-01 00:00:00,2020-01-01 00:00:00,5,Nile,Precip
+Dry,2021-01-01 00:00:00,2021-01-01 00:00:00,1,Nile,Precip
+Wet,2022-01-01 00:00:00,2022-01-01 00:00:00,1,Nile,Precip
+Dry,2023-01-01 00:00:00,2023-01-01 00:00:00,1,Nile,Precip
+Wet,2024-01-01 00:00:00,2024-01-01 00:00:00,1,Nile,Precip
+Dry,2025-01-01 00:00:00,2025-01-01 00:00:00,1,Nile,Precip
+Dry,2002-01-01 00:00:00,2012-01-01 00:00:00,11,Yangtze Basin,ET
+Wet,2013-01-01 00:00:00,2024-01-01 00:00:00,12,Yangtze Basin,ET
+Wet,1998-01-01 00:00:00,1999-01-01 00:00:00,2,Yangtze Basin,Precip
+Dry,2000-01-01 00:00:00,2001-01-01 00:00:00,2,Yangtze Basin,Precip
+Wet,2002-01-01 00:00:00,2002-01-01 00:00:00,1,Yangtze Basin,Precip
+Dry,2003-01-01 00:00:00,2009-01-01 00:00:00,7,Yangtze Basin,Precip
+Wet,2010-01-01 00:00:00,2010-01-01 00:00:00,1,Yangtze Basin,Precip
+Dry,2011-01-01 00:00:00,2011-01-01 00:00:00,1,Yangtze Basin,Precip
+Wet,2012-01-01 00:00:00,2012-01-01 00:00:00,1,Yangtze Basin,Precip
+Dry,2013-01-01 00:00:00,2013-01-01 00:00:00,1,Yangtze Basin,Precip
+Wet,2014-01-01 00:00:00,2017-01-01 00:00:00,4,Yangtze Basin,Precip
+Dry,2018-01-01 00:00:00,2019-01-01 00:00:00,2,Yangtze Basin,Precip
+Wet,2020-01-01 00:00:00,2021-01-01 00:00:00,2,Yangtze Basin,Precip
+Dry,2022-01-01 00:00:00,2022-01-01 00:00:00,1,Yangtze Basin,Precip
+Wet,2023-01-01 00:00:00,2024-01-01 00:00:00,2,Yangtze Basin,Precip
+Dry,2025-01-01 00:00:00,2025-01-01 00:00:00,1,Yangtze Basin,Precip
+Dry,2001-01-01,2005-01-01,5,Amazon Basin,Runoff
+Wet,2006-01-01,2006-01-01,1,Amazon Basin,Runoff
+Dry,2007-01-01,2007-01-01,1,Amazon Basin,Runoff
+Wet,2008-01-01,2009-01-01,2,Amazon Basin,Runoff
+Dry,2010-01-01,2010-01-01,1,Amazon Basin,Runoff
+Wet,2011-01-01,2014-01-01,4,Amazon Basin,Runoff
+Dry,2015-01-01,2016-01-01,2,Amazon Basin,Runoff
+Wet,2017-01-01,2019-01-01,3,Amazon Basin,Runoff
+Dry,2020-01-01,2020-01-01,1,Amazon Basin,Runoff
+Wet,2021-01-01,2021-01-01,1,Amazon Basin,Runoff
+Dry,2022-01-01,2025-01-01,4,Amazon Basin,Runoff
+Wet,2001-01-01,2001-01-01,1,California,Runoff
+Dry,2002-01-01,2003-01-01,2,California,Runoff
+Wet,2004-01-01,2006-01-01,3,California,Runoff
+Dry,2007-01-01,2009-01-01,3,California,Runoff
+Wet,2010-01-01,2011-01-01,2,California,Runoff
+Dry,2012-01-01,2015-01-01,4,California,Runoff
+Wet,2016-01-01,2017-01-01,2,California,Runoff
+Dry,2018-01-01,2018-01-01,1,California,Runoff
+Wet,2019-01-01,2019-01-01,1,California,Runoff
+Dry,2020-01-01,2022-01-01,3,California,Runoff
+Wet,2023-01-01,2023-01-01,1,California,Runoff
+Dry,2024-01-01,2025-01-01,2,California,Runoff
+Wet,2001-01-01,2001-01-01,1,Colorado,Runoff
+Dry,2002-01-01,2004-01-01,3,Colorado,Runoff
+Wet,2005-01-01,2008-01-01,4,Colorado,Runoff
+Dry,2009-01-01,2009-01-01,1,Colorado,Runoff
+Wet,2010-01-01,2011-01-01,2,Colorado,Runoff
+Dry,2012-01-01,2013-01-01,2,Colorado,Runoff
+Wet,2014-01-01,2014-01-01,1,Colorado,Runoff
+Dry,2015-01-01,2016-01-01,2,Colorado,Runoff
+Wet,2017-01-01,2017-01-01,1,Colorado,Runoff
+Dry,2018-01-01,2018-01-01,1,Colorado,Runoff
+Wet,2019-01-01,2019-01-01,1,Colorado,Runoff
+Dry,2020-01-01,2022-01-01,3,Colorado,Runoff
+Wet,2023-01-01,2023-01-01,1,Colorado,Runoff
+Dry,2024-01-01,2025-01-01,2,Colorado,Runoff
+Dry,2001-01-01,2009-01-01,9,Congo,Runoff
+Wet,2010-01-01,2013-01-01,4,Congo,Runoff
+Dry,2014-01-01,2014-01-01,1,Congo,Runoff
+Wet,2015-01-01,2019-01-01,5,Congo,Runoff
+Dry,2020-01-01,2020-01-01,1,Congo,Runoff
+Wet,2021-01-01,2023-01-01,3,Congo,Runoff
+Dry,2024-01-01,2025-01-01,2,Congo,Runoff
+Wet,2001-01-01,2001-01-01,1,Danube,Runoff
+Dry,2002-01-01,2003-01-01,2,Danube,Runoff
+Wet,2004-01-01,2006-01-01,3,Danube,Runoff
+Dry,2007-01-01,2008-01-01,2,Danube,Runoff
+Wet,2009-01-01,2013-01-01,5,Danube,Runoff
+Dry,2014-01-01,2015-01-01,2,Danube,Runoff
+Wet,2016-01-01,2017-01-01,2,Danube,Runoff
+Dry,2018-01-01,2025-01-01,8,Danube,Runoff
+Dry,2001-01-01,2002-01-01,2,Ganges / Bhramaputra Basin,Runoff
+Wet,2003-01-01,2005-01-01,3,Ganges / Bhramaputra Basin,Runoff
+Dry,2006-01-01,2006-01-01,1,Ganges / Bhramaputra Basin,Runoff
+Wet,2007-01-01,2007-01-01,1,Ganges / Bhramaputra Basin,Runoff
+Dry,2008-01-01,2010-01-01,3,Ganges / Bhramaputra Basin,Runoff
+Wet,2011-01-01,2011-01-01,1,Ganges / Bhramaputra Basin,Runoff
+Dry,2012-01-01,2012-01-01,1,Ganges / Bhramaputra Basin,Runoff
+Wet,2013-01-01,2013-01-01,1,Ganges / Bhramaputra Basin,Runoff
+Dry,2014-01-01,2014-01-01,1,Ganges / Bhramaputra Basin,Runoff
+Wet,2015-01-01,2015-01-01,1,Ganges / Bhramaputra Basin,Runoff
+Dry,2016-01-01,2018-01-01,3,Ganges / Bhramaputra Basin,Runoff
+Wet,2019-01-01,2020-01-01,2,Ganges / Bhramaputra Basin,Runoff
+Dry,2021-01-01,2023-01-01,3,Ganges / Bhramaputra Basin,Runoff
+Wet,2024-01-01,2024-01-01,1,Ganges / Bhramaputra Basin,Runoff
+Dry,2025-01-01,2025-01-01,1,Ganges / Bhramaputra Basin,Runoff
+Wet,2001-01-01,2001-01-01,1,Mekong Basin,Runoff
+Dry,2002-01-01,2004-01-01,3,Mekong Basin,Runoff
+Wet,2005-01-01,2006-01-01,2,Mekong Basin,Runoff
+Dry,2007-01-01,2010-01-01,4,Mekong Basin,Runoff
+Wet,2011-01-01,2011-01-01,1,Mekong Basin,Runoff
+Dry,2012-01-01,2012-01-01,1,Mekong Basin,Runoff
+Wet,2013-01-01,2013-01-01,1,Mekong Basin,Runoff
+Dry,2014-01-01,2016-01-01,3,Mekong Basin,Runoff
+Wet,2017-01-01,2022-01-01,6,Mekong Basin,Runoff
+Dry,2023-01-01,2023-01-01,1,Mekong Basin,Runoff
+Wet,2024-01-01,2024-01-01,1,Mekong Basin,Runoff
+Dry,2025-01-01,2025-01-01,1,Mekong Basin,Runoff
+Dry,2001-01-01,2002-01-01,2,Mississippi / Missouri,Runoff
+Wet,2003-01-01,2004-01-01,2,Mississippi / Missouri,Runoff
+Dry,2005-01-01,2007-01-01,3,Mississippi / Missouri,Runoff
+Wet,2008-01-01,2009-01-01,2,Mississippi / Missouri,Runoff
+Dry,2010-01-01,2010-01-01,1,Mississippi / Missouri,Runoff
+Wet,2011-01-01,2011-01-01,1,Mississippi / Missouri,Runoff
+Dry,2012-01-01,2012-01-01,1,Mississippi / Missouri,Runoff
+Wet,2013-01-01,2015-01-01,3,Mississippi / Missouri,Runoff
+Dry,2016-01-01,2016-01-01,1,Mississippi / Missouri,Runoff
+Wet,2017-01-01,2020-01-01,4,Mississippi / Missouri,Runoff
+Dry,2021-01-01,2025-01-01,5,Mississippi / Missouri,Runoff
+Dry,2001-01-01,2009-01-01,9,Murray,Runoff
+Wet,2010-01-01,2013-01-01,4,Murray,Runoff
+Dry,2014-01-01,2015-01-01,2,Murray,Runoff
+Wet,2016-01-01,2016-01-01,1,Murray,Runoff
+Dry,2017-01-01,2019-01-01,3,Murray,Runoff
+Wet,2020-01-01,2022-01-01,3,Murray,Runoff
+Dry,2023-01-01,2023-01-01,1,Murray,Runoff
+Wet,2024-01-01,2024-01-01,1,Murray,Runoff
+Dry,2025-01-01,2025-01-01,1,Murray,Runoff
+Dry,2001-01-01,2005-01-01,5,Nile,Runoff
+Wet,2006-01-01,2007-01-01,2,Nile,Runoff
+Dry,2008-01-01,2009-01-01,2,Nile,Runoff
+Wet,2010-01-01,2014-01-01,5,Nile,Runoff
+Dry,2015-01-01,2015-01-01,1,Nile,Runoff
+Wet,2016-01-01,2016-01-01,1,Nile,Runoff
+Dry,2017-01-01,2018-01-01,2,Nile,Runoff
+Wet,2019-01-01,2020-01-01,2,Nile,Runoff
+Dry,2021-01-01,2021-01-01,1,Nile,Runoff
+Wet,2022-01-01,2022-01-01,1,Nile,Runoff
+Dry,2023-01-01,2025-01-01,3,Nile,Runoff
+Dry,2001-01-01,2001-01-01,1,Yangtze Basin,Runoff
+Wet,2002-01-01,2002-01-01,1,Yangtze Basin,Runoff
+Dry,2003-01-01,2009-01-01,7,Yangtze Basin,Runoff
+Wet,2010-01-01,2010-01-01,1,Yangtze Basin,Runoff
+Dry,2011-01-01,2011-01-01,1,Yangtze Basin,Runoff
+Wet,2012-01-01,2012-01-01,1,Yangtze Basin,Runoff
+Dry,2013-01-01,2013-01-01,1,Yangtze Basin,Runoff
+Wet,2014-01-01,2017-01-01,4,Yangtze Basin,Runoff
+Dry,2018-01-01,2018-01-01,1,Yangtze Basin,Runoff
+Wet,2019-01-01,2021-01-01,3,Yangtze Basin,Runoff
+Dry,2022-01-01,2023-01-01,2,Yangtze Basin,Runoff
+Wet,2024-01-01,2024-01-01,1,Yangtze Basin,Runoff
+Dry,2025-01-01,2025-01-01,1,Yangtze Basin,Runoff
